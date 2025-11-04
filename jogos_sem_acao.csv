@@ -1,0 +1,952 @@
+Console,Name,Publisher,Total Sales,Release Date,genres
+PS4,FIFA 18,EA Sports,11800000.0,2017-09-29,Sports
+PS4,FIFA 17,Electronic Arts,10940000.0,2016-09-27,Sports
+PS3,Call of Duty: Modern Warfare 2,Activision,10610000.0,2009-11-10,Shooter
+PS4,FIFA 19,Electronic Arts,9150000.0,2018-09-28,"Simulation, Sports"
+PS3,FIFA 13,EA Sports,8010000.0,2012-09-25,Sports
+PS3,FIFA 14,EA Sports,6610000.0,2013-09-24,Sports
+PS4,FIFA 15,EA Sports,6320000.0,2014-09-23,Sports
+PS3,Call of Duty: World at War,Activision,5430000.0,2008-11-10,Shooter
+PS3,Final Fantasy XIII,Square Enix,5350000.0,2010-03-09,RPG
+PS4,Final Fantasy XV,Square Enix,5070000.0,2016-11-29,RPG
+PS3,FIFA 15,EA Sports,4560000.0,2014-09-23,Sports
+PS4,Far Cry 4,Ubisoft,4060000.0,2014-11-18,Shooter
+PS3,Fallout 3,Bethesda Softworks,4000000.0,2008-10-28,"Shooter, RPG"
+PS4,NBA 2K16,2K Sports,3980000.0,2015-09-29,Sports
+PS4,Battlefield 4,Electronic Arts,3940000.0,2013-11-15,Shooter
+PS3,Sports Champions,Sony Computer Entertainment,3880000.0,2010-09-17,"Casual, Arcade, Sports"
+PS4,Gran Turismo Sport,Sony Interactive Entertainment,3770000.0,2017-10-17,Racing
+PS3,Battlefield 4,Electronic Arts,3640000.0,2013-10-29,Shooter
+PS4,FIFA 14,EA Sports,3430000.0,2013-11-15,Sports
+PS4,Madden NFL 16,EA Sports,3300000.0,2015-08-25,Sports
+PS4,Madden NFL 17,EA Sports,3280000.0,2016-08-23,Sports
+PS3,The Elder Scrolls IV: Oblivion,Bethesda Softworks,3120000.0,2007-03-20,"Indie, Adventure, RPG"
+PS3,Mortal Kombat (2011),Warner Bros. Interactive Entertainment,2900000.0,2011-04-19,Fighting
+PS3,Medal of Honor,Electronic Arts,2820000.0,2010-10-12,Shooter
+PS3,Need for Speed: Hot Pursuit,Electronic Arts,2810000.0,2010-11-16,"Racing, Arcade"
+PS3,Madden NFL 13,EA Sports,2710000.0,2012-08-28,Sports
+PS3,Final Fantasy XIII-2,Square Enix,2660000.0,2012-01-31,RPG
+PS3,Need for Speed: Shift,Electronic Arts,2650000.0,2009-09-15,Racing
+PS3,NBA 2K13,2K Sports,2630000.0,2012-10-02,Sports
+PS4,Madden NFL 18,EA Sports,2620000.0,2017-08-25,Sports
+PS3,Midnight Club: Los Angeles,Rockstar Games,2500000.0,2008-10-20,"Racing, Arcade"
+PS4,NBA 2K15,2K Sports,2490000.0,2014-10-07,Sports
+PS3,Pro Evolution Soccer 2011,Konami,2410000.0,2010-10-05,Sports
+PS3,Madden NFL 11,EA Sports,2400000.0,2010-08-10,"Simulation, Sports"
+PS4,Driveclub,Sony Computer Entertainment,2370000.0,2014-10-07,Racing
+PS3,Madden NFL 10,EA Sports,2370000.0,2009-08-14,Sports
+PS3,Sonic's Ultimate Genesis Collection,Sega,2360000.0,2009-02-10,"Casual, Platformer, Adventure"
+PS3,Pro Evolution Soccer 2010,Konami,2280000.0,2009-11-03,Sports
+PS3,Madden NFL 12,EA Sports,2270000.0,2011-08-30,Sports
+PS3,Guitar Hero III: Legends of Rock,RedOctane,2250000.0,2007-10-28,Arcade
+PS4,Madden NFL 15,EA Sports,2250000.0,2014-08-26,Sports
+PS3,NBA 2K14,2K Sports,2220000.0,2013-10-01,Sports
+PS3,Pro Evolution Soccer 2012,Konami,2190000.0,2011-09-27,Sports
+PS4,Need for Speed Rivals,Electronic Arts,2170000.0,2013-11-15,"Racing, Arcade"
+PS3,NBA 2K12,2K Sports,2130000.0,2011-10-04,Sports
+PS4,LittleBigPlanet 3,Sony Computer Entertainment,2060000.0,2014-11-18,"Platformer, Adventure, Puzzle"
+PS3,Need for Speed: ProStreet,Electronic Arts,2040000.0,2007-11-13,"Racing, Arcade"
+PS3,Madden NFL 25,Electronic Arts,2040000.0,2013-08-27,Sports
+PS4,Dragon Quest XI: Echoes of an Elusive Age,Square Enix,2040000.0,2018-09-04,RPG
+PS3,Skate 3,EA Sports,2030000.0,2010-05-11,"Arcade, Sports"
+PS3,The Sims 3,Electronic Arts,2030000.0,2010-10-26,"Casual, Simulation"
+PS4,Rocket League,505 Games,2020000.0,2016-07-05,"Racing, Indie, Sports"
+PS3,Need for Speed: The Run,Electronic Arts,2010000.0,2011-11-15,"Racing, Arcade"
+PS3,Burnout Paradise,Electronic Arts,1950000.0,2008-01-22,"Racing, Arcade"
+PS3,Madden NFL 09,EA Sports,1890000.0,2008-08-12,Sports
+PS3,NBA 2K11,2K Sports,1810000.0,2010-10-05,Sports
+PS4,The Crew,Ubisoft,1790000.0,2014-12-02,"Racing, Adventure, Massively Multiplayer"
+PS3,UFC 2009 Undisputed,THQ,1760000.0,2009-05-19,"Arcade, Fighting, Sports"
+PS4,Injustice 2,Warner Bros. Interactive Entertainment,1720000.0,2017-05-16,Fighting
+PS3,Portal 2,Valve,1710000.0,2011-04-19,"Shooter, Puzzle"
+PS3,Dragon Age: Origins,Electronic Arts,1670000.0,2009-11-03,RPG
+PS3,Rock Band,MTV Games,1620000.0,2007-11-20,Arcade
+PS3,Pro Evolution Soccer 2008,Konami,1590000.0,2008-03-12,Sports
+PS4,NBA 2K14,2K Sports,1540000.0,2013-11-15,Sports
+PS3,Fight Night Round 4,EA Sports,1520000.0,2009-06-23,Sports
+PS3,Pro Evolution Soccer 2013,Konami Digital Entertainment,1520000.0,2012-09-25,Sports
+PS3,Call of Duty 3,Activision,1510000.0,2006-11-15,Shooter
+PS3,Rock Band 2,MTV Games,1500000.0,2008-10-19,Arcade
+PS4,Rayman Legends,Ubisoft,1500000.0,2014-02-18,Platformer
+PS3,Madden NFL 15,EA Sports,1490000.0,2014-08-26,Sports
+PS4,South Park: The Fractured But Whole,Ubisoft,1430000.0,2017-10-17,"Adventure, RPG"
+PS3,UFC Undisputed 2010,THQ,1420000.0,2010-05-25,"Arcade, Fighting, Sports"
+PS4,The Sims 4,Electronic Arts,1390000.0,2017-11-17,"Casual, Strategy, Simulation"
+PS3,NBA 2K15,2K Sports,1370000.0,2014-10-07,Sports
+PS3,Ridge Racer 7,Namco Bandai,1370000.0,2006-11-13,"Racing, Arcade"
+PS3,Marvel vs. Capcom 3: Fate of Two Worlds,Capcom,1360000.0,2011-02-15,"Arcade, Fighting"
+PS3,FIFA 17,Electronic Arts,1360000.0,2016-09-27,Sports
+PS3,WWE '13,THQ,1350000.0,2012-10-30,"Arcade, Fighting"
+PS3,F1 2010,Codemasters,1340000.0,2010-09-21,"Racing, Sports"
+PS4,WWE 2K18,2K Sports,1330000.0,2017-10-17,"Simulation, Sports"
+PS4,EA Sports UFC 2,EA Sports,1310000.0,2016-03-15,"Fighting, Sports"
+PS4,Project CARS,Bandai Namco Games,1280000.0,2015-05-12,"Racing, Simulation, Sports"
+PS3,Need for Speed Rivals,Electronic Arts,1270000.0,2013-11-19,"Racing, Arcade"
+PS3,Far Cry 4,Ubisoft,1260000.0,2014-11-18,Shooter
+PS3,FIFA Street (2012),EA Sports,1250000.0,2012-03-13,Sports
+PS3,Need for Speed Carbon,Electronic Arts,1240000.0,2006-11-17,"Racing, Arcade"
+PS4,WWE 2K17,2K Games,1220000.0,2016-10-11,"Fighting, Simulation, Sports"
+PS4,Guitar Hero Live,Activision,1210000.0,2015-10-20,Arcade
+PS3,Medal of Honor: Airborne,Electronic Arts,1210000.0,2007-11-19,Shooter
+PS3,F1 2011,Codemasters,1200000.0,2011-09-20,"Racing, Sports"
+PS3,WWE 2K14,2K Sports,1200000.0,2013-10-29,"Arcade, Fighting, Sports"
+PS3,WWE '12,THQ,1180000.0,2011-11-22,"Arcade, Fighting"
+PS4,MLB The Show 17,Sony Interactive Entertainment,1160000.0,2017-03-28,Sports
+PS4,WWE 2K15,2K Sports,1160000.0,2014-11-18,"Fighting, Sports"
+PS4,LEGO Worlds,Warner Bros. Interactive Entertainment,1140000.0,2017-03-07,Adventure
+PS3,Fight Night Champion,EA Sports,1130000.0,2011-03-01,"Fighting, Sports"
+PS3,Rocksmith,Ubisoft,1130000.0,2011-10-18,"Casual, Simulation"
+PS4,The Elder Scrolls V: Skyrim VR,Bethesda Softworks,1130000.0,2017-11-17,RPG
+PS3,The Beatles: Rock Band,MTV Games,1120000.0,2009-09-09,Arcade
+PS4,EA Sports UFC,Electronic Arts,1110000.0,2014-06-17,"Fighting, Simulation, Sports"
+PS3,Guitar Hero 5,Activision,1100000.0,2009-09-01,Arcade
+PS4,Final Fantasy XII: The Zodiac Age,Square Enix,1100000.0,2017-07-11,RPG
+PS3,Lightning Returns: Final Fantasy XIII,Square Enix,1090000.0,2014-02-11,RPG
+PS3,Pro Evolution Soccer 2014,Konami Digital Entertainment,1080000.0,2013-09-24,Sports
+PS3,Virtua Fighter 5,Sega,1080000.0,2007-02-20,"Arcade, Fighting"
+PS3,The Orange Box,Electronic Arts,1070000.0,2007-12-11,Shooter
+PS3,DiRT 3,Codemasters,1060000.0,2011-05-24,"Racing, Arcade, Sports"
+PS4,MLB The Show 18,Sony Interactive Entertainment,1060000.0,2018-03-27,Sports
+PS3,Virtua Tennis 3,Sega,1050000.0,2007-03-20,Sports
+PS3,UFC Undisputed 3,THQ,1050000.0,2012-02-14,"Arcade, Fighting, Sports"
+PS3,F1 2012,Codemasters,1010000.0,2012-09-18,"Racing, Sports"
+PS3,EyePet,Sony Computer Entertainment,1010000.0,2010-09-17,Family
+PS4,MLB 15: The Show,Sony Computer Entertainment America,1010000.0,2015-03-31,Sports
+PS3,Guitar Hero: Aerosmith,Activision,1000000.0,2008-06-29,Arcade
+PS3,Tales of Graces f,Namco Bandai,990000.0,2012-03-13,RPG
+PS3,PlayStation All-Stars Battle Royale,Sony Computer Entertainment,990000.0,2012-11-20,"Family, Massively Multiplayer, Arcade, Fighting"
+PS4,WWE 2K19,2K Sports,980000.0,2018-10-09,"Simulation, Sports"
+PS3,South Park: The Stick of Truth,Ubisoft,970000.0,2014-03-04,"Adventure, RPG"
+PS3,Madden NFL 08,EA Sports,970000.0,2007-08-14,Sports
+PS4,EA Sports UFC 3,EA Sports,970000.0,2018-02-02,Sports
+PS3,Sonic & SEGA All-Stars Racing,Sega,960000.0,2010-02-23,Racing
+PS4,MLB 16: The Show,Sony Computer Entertainment America,960000.0,2016-03-29,Sports
+PS4,Madden NFL 25,EA Sports,960000.0,2013-11-15,Sports
+PS3,EA Sports Active 2,Electronic Arts,940000.0,2010-11-16,Sports
+PS3,SingStar Abba,Sony Computer Entertainment,930000.0,2008-12-02,"Family, Arcade"
+PS3,NCAA Football 13,EA Sports,930000.0,2012-07-10,Sports
+PS3,SSX,EA Sports,920000.0,2012-02-28,"Arcade, Sports"
+PS3,NCAA Football 14,EA Sports,920000.0,2013-07-09,Sports
+PS3,Homefront,THQ,900000.0,2011-03-15,Shooter
+PS3,DJ Hero,Activision,900000.0,2009-10-27,Arcade
+PS3,The Simpsons Game,Electronic Arts,890000.0,2007-10-30,"Platformer, Arcade"
+PS3,Pure,Disney Interactive Studios,890000.0,2008-09-16,"Racing, Arcade"
+PS3,Tiger Woods PGA Tour 12: The Masters,EA Sports,890000.0,2011-03-29,Sports
+PS4,Ni no Kuni II: Revenant Kingdom,Namco Bandai Games,890000.0,2018-03-23,"Adventure, RPG"
+PS3,Buzz! Quiz TV,Sony Computer Entertainment,880000.0,2008-09-23,"Casual, Family"
+PS4,Farming Simulator 17,Focus Home Interactive,850000.0,2016-10-25,Simulation
+PS3,NCAA Football 11,EA Sports,850000.0,2010-07-13,Sports
+PS3,Skate 2,Electronic Arts,840000.0,2009-01-21,"Arcade, Sports"
+PS3,NBA 2K10,2K Sports,840000.0,2009-10-06,Sports
+PS3,MLB 13: The Show,Sony Computer Entertainment America,840000.0,2013-03-05,Sports
+PS3,NCAA Football 12,EA Sports,830000.0,2011-07-12,"Simulation, Sports"
+PS3,Tiger Woods PGA Tour 11,EA Sports,830000.0,2010-06-08,Sports
+PS3,Dragon Ball: Raging Blast 2,Namco Bandai,830000.0,2010-11-02,Fighting
+PS4,Pro Evolution Soccer 2016,Konami Digital Entertainment,820000.0,2015-09-15,Sports
+PS3,NCAA Football 10,EA Sports,810000.0,2009-07-14,"Simulation, Sports"
+PS3,Guitar Hero: Warriors of Rock,Activision,810000.0,2010-09-28,Arcade
+PS3,Madden NFL 16,EA Sports,810000.0,2015-08-25,Sports
+PS3,WWE 2K15,2K Sports,800000.0,2014-10-28,"Fighting, Sports"
+PS4,Final Fantasy XIV: A Realm Reborn,Square Enix,790000.0,2014-04-14,"Massively Multiplayer, RPG"
+PS3,NBA 2K16,2K Sports,790000.0,2015-09-29,Sports
+PS3,Tiger Woods PGA Tour 10,EA Sports,780000.0,2009-06-08,Sports
+PS3,DJ Hero 2,Activision,780000.0,2010-10-19,Arcade
+PS3,Sid Meier's Civilization Revolution,2K Games,780000.0,2008-07-08,"Strategy, Simulation"
+PS4,F1 2016,Codemasters,780000.0,2017-01-01,"Racing, Sports"
+PS3,Persona 4 Arena,Atlus,770000.0,2012-08-07,Fighting
+PS3,Dragon Ball: Raging Blast,Namco Bandai,770000.0,2009-11-10,Fighting
+PS4,Pro Evolution Soccer 2015,Konami Digital Entertainment,760000.0,2014-11-11,Sports
+PS3,Band Hero,Activision,760000.0,2009-11-03,Arcade
+PS4,Pro Evolution Soccer 2017,Konami Digital Entertainment,750000.0,2016-09-13,"Simulation, Sports"
+PS4,Pro Evolution Soccer 2018,Konami Digital Entertainment,750000.0,2017-09-12,Sports
+PS3,Resonance of Fate,Sega,740000.0,2010-03-16,RPG
+PS3,Naruto Shippuden: Ultimate Ninja Storm Generations,Namco Bandai Games,740000.0,2012-03-13,"Arcade, Fighting"
+PS3,Tiger Woods PGA Tour 08,Electronic Arts,730000.0,2007-08-28,Sports
+PS3,MLB 10: The Show,Sony Computer Entertainment,730000.0,2010-03-02,Sports
+PS3,Blur,Activision,720000.0,2010-05-25,"Racing, Arcade"
+PS3,MLB 09: The Show,Sony Computer Entertainment,720000.0,2009-03-03,Sports
+PS4,WipEout Omega Collection,Sony Interactive Entertainment,720000.0,2017-06-06,Racing
+PS4,Astro Bot Rescue Mission,Sony Interactive Entertainment,710000.0,2018-10-02,Adventure
+PS3,MLB 08: The Show,Sony Computer Entertainment,700000.0,2008-03-04,Sports
+PS3,Top Spin 4,2K Sports,690000.0,2011-03-15,Sports
+PS4,F1 2015,Codemasters,680000.0,2015-07-21,"Racing, Sports"
+PS3,Tom Clancy's EndWar,Ubisoft,670000.0,2008-11-04,"Strategy, Simulation"
+PS3,2014 FIFA World Cup Brazil,EA Sports,660000.0,2014-04-15,Sports
+PS3,NHL 13,Electronic Arts,660000.0,2012-09-11,Sports
+PS3,Book of Spells,Sony Computer Entertainment,660000.0,2012-11-13,"Adventure, RPG, Casual, Arcade, Indie"
+PS3,Dead or Alive 5,Tecmo Koei,650000.0,2015-02-17,"Arcade, Fighting"
+PS3,LittleBigPlanet 3,Sony Computer Entertainment,640000.0,2014-11-18,"Platformer, Adventure, Puzzle"
+PS3,Test Drive Unlimited 2,Atari,630000.0,2011-02-08,"Racing, Arcade"
+PS3,NBA Live 08,Electronic Arts,630000.0,2007-10-01,Sports
+PS3,Just Dance 3,Ubisoft,630000.0,2011-12-06,"Family, Arcade"
+PS3,Tony Hawk's Project 8,Activision,630000.0,2006-11-17,"Arcade, Sports"
+PS4,F1 2017,Deep Silver,620000.0,2017-08-25,"Racing, Sports"
+PS3,Guitar Hero: Metallica,Activision,620000.0,2009-03-29,Arcade
+PS4,NHL 15,EA Sports,620000.0,2014-09-09,Sports
+PS4,World of Final Fantasy,Square Enix,620000.0,2016-10-25,RPG
+PS3,Dragon Ball Z: Ultimate Tenkaichi,Namco Bandai,620000.0,2011-10-25,"Arcade, Fighting"
+PS3,Start the Party!,Sony Computer Entertainment,620000.0,2010-09-07,Arcade
+PS3,Rayman Legends,Ubisoft,610000.0,2013-09-03,Platformer
+PS4,Knowledge is Power,Sony Interactive Entertainment,610000.0,2017-10-24,Family
+PS3,Tony Hawk: RIDE,Activision,610000.0,2009-11-17,"Arcade, Sports"
+PS3,XCOM: Enemy Unknown,2K Games,590000.0,2012-10-09,Strategy
+PS3,NHL 11,EA Sports,590000.0,2010-09-07,Sports
+PS3,The Fight: Lights Out,Sony Computer Entertainment,590000.0,2010-11-09,"Arcade, Fighting"
+PS3,Pro Evolution Soccer 2015,Konami Digital Entertainment,590000.0,2014-11-11,Sports
+PS3,Disgaea 4: A Promise Unforgotten,NIS America,580000.0,2011-09-06,"Strategy, RPG"
+PS3,F1 2013,Codemasters,580000.0,2013-10-08,"Racing, Sports"
+PS3,Sly Cooper: Thieves in Time,Sony Computer Entertainment,580000.0,2013-02-05,"Arcade, Adventure"
+PS3,NCAA Football 09,EA Sports,580000.0,2008-07-15,Sports
+PS3,NHL 12,EA Sports,580000.0,2011-09-13,Sports
+PS3,NHL 10,EA Sports,570000.0,2009-09-15,Sports
+PS3,Top Spin 3,2K Sports,570000.0,2008-06-23,Sports
+PS3,Zumba Fitness,Majesco,570000.0,2010-11-18,"Arcade, Sports"
+PS4,Rock Band 4,Harmonix Music Systems,570000.0,2015-10-06,Simulation
+PS3,NHL 14,EA Sports,570000.0,2013-09-10,Sports
+PS3,Rock Band 3,MTV Games,570000.0,2010-10-26,Arcade
+PS3,Tiger Woods PGA Tour 13,Electronic Arts,550000.0,2012-03-27,Sports
+PS3,Disgaea 3: Absence of Justice,NIS America,550000.0,2008-08-26,"Strategy, RPG"
+PS4,Rory McIlroy PGA Tour,Electronic Arts,550000.0,2015-07-14,Sports
+PS4,Project CARS 2,Namco Bandai Games,550000.0,2017-09-22,"Racing, Simulation, Sports"
+PS3,Tales of Symphonia Chronicles,Namco Bandai Games,540000.0,2014-02-25,RPG
+PS3,Time Crisis: Razing Storm,Namco Bandai,540000.0,2010-10-19,Arcade
+PS3,NBA Live 10,EA Sports,540000.0,2009-10-06,Sports
+PS3,SingStar Dance,Sony Computer Entertainment,520000.0,2010-11-09,Arcade
+PS4,DiRT Rally,Codemasters,510000.0,2016-04-05,"Racing, Simulation, Sports"
+PS3,R.U.S.E.,Ubisoft,500000.0,2010-09-07,"Strategy, Simulation"
+PS4,Pro Evolution Soccer 2019,Konami,500000.0,2018-08-28,"Simulation, Sports"
+PS3,MotorStorm: Apocalypse,Sony Computer Entertainment,490000.0,2011-05-03,"Racing, Arcade"
+PS4,DiRT 4,Deep Silver,490000.0,2017-06-06,"Racing, Sports"
+PS4,Farpoint,Sony Interactive Entertainment,480000.0,2017-05-16,Shooter
+PS4,Farming Simulator 19,Focus Home Interactive,470000.0,2018-11-20,"Family, Simulation"
+PS4,Just Dance 2014,Ubisoft,470000.0,2013-11-15,Arcade
+PS4,TrackMania Turbo,Ubisoft,470000.0,2016-03-22,"Racing, Massively Multiplayer"
+PS3,Tales of Vesperia,Namco Bandai,460000.0,2009-09-17,RPG
+PS4,Tales of Zestiria,Namco Bandai Games,450000.0,2015-10-20,RPG
+PS3,Virtua Tennis 4,Sega,450000.0,2011-05-10,Sports
+PS3,Just Dance 4,Ubisoft,450000.0,2012-10-09,Arcade
+PS3,Tony Hawk's Proving Ground,Activision,440000.0,2007-10-15,Sports
+PS3,Pro Evolution Soccer 2016,Konami Digital Entertainment,440000.0,2015-09-15,Sports
+PS3,Hyperdimension Neptunia,NIS America,440000.0,2011-02-15,RPG
+PS3,Eternal Sonata,Namco Bandai,440000.0,2008-10-21,RPG
+PS4,Trials Fusion,Ubisoft,430000.0,2014-04-16,Racing
+PS3,Atelier Totori: The Adventurer of Arland,NIS America,430000.0,2011-09-27,RPG
+PS3,F1 2014,Codemasters,420000.0,2014-10-21,"Racing, Sports"
+PS3,LEGO Rock Band,Warner Bros. Interactive,420000.0,2009-11-03,Arcade
+PS4,Just Dance 2015,Ubisoft,410000.0,2014-10-21,Arcade
+PS3,WWE All Stars,THQ,410000.0,2011-03-29,"Arcade, Fighting, Sports"
+PS3,Katamari Forever,Namco Bandai,410000.0,2009-09-22,Arcade
+PS3,Cars: Mater-National Championship,THQ,410000.0,2007-10-30,Racing
+PS3,BlazBlue: Continuum Shift,Aksys Games,410000.0,2010-07-27,"Arcade, Fighting"
+PS3,Green Day: Rock Band,MTV Games,410000.0,2010-06-08,Arcade
+PS4,Sword Art Online: Hollow Realization,Namco Bandai Games,410000.0,2016-11-08,RPG
+PS3,NBA Jam,EA Sports,400000.0,2010-11-16,Sports
+PS3,Sega Superstars Tennis,Sega,400000.0,2008-03-18,"Family, Sports"
+PS3,MLB 15: The Show,Sony Computer Entertainment America,400000.0,2015-03-31,Sports
+PS3,Disney Sing It,Disney Interactive Studios,400000.0,2008-10-21,"Family, Arcade"
+PS3,TNA iMPACT!,Midway Games,400000.0,2008-09-09,Sports
+PS3,MotoGP 08,Capcom,390000.0,2008-10-28,Racing
+PS3,Monopoly Streets,Electronic Arts,390000.0,2010-10-26,"Family, Board Games"
+PS3,Tiger Woods PGA Tour 14,EA Sports,390000.0,2013-03-26,Sports
+PS3,Just Dance 2014,Ubisoft,390000.0,2013-10-08,Arcade
+PS3,Get Fit with Mel B,Deep Silver,390000.0,2010-10-20,Arcade
+PS3,GRID 2,Codemasters,380000.0,2013-05-28,"Racing, Arcade"
+PS3,Guitar Hero Live,Activision,380000.0,2015-10-20,Arcade
+PS3,MLB 16: The Show,Sony Computer Entertainment America,380000.0,2016-03-29,Sports
+PS4,Tropico 5,Kalypso Media,380000.0,2015-04-28,"Strategy, RPG, Simulation"
+PS3,Virtua Tennis 2009,Sega,380000.0,2009-06-09,Sports
+PS4,Burnout Paradise Remastered,Electronic Arts,370000.0,2018-03-16,"Racing, Arcade"
+PS3,WWE 2K17,2K Games,370000.0,2016-10-11,"Fighting, Simulation, Sports"
+PS4,Life is Strange,Square Enix,370000.0,2016-01-19,Adventure
+PS3,EA Sports MMA,EA Sports,370000.0,2010-10-19,"Arcade, Fighting, Sports"
+PS3,NHL 15,EA Sports,370000.0,2014-09-09,Sports
+PS3,Tekken Hybrid,Namco,360000.0,2011-11-22,Fighting
+PS3,Def Jam Rapstar,Konami,350000.0,2010-10-05,Arcade
+PS3,Guitar Hero: Smash Hits,Activision,350000.0,2009-06-16,Arcade
+PS4,Disgaea 5: Alliance of Vengeance,NIS America,350000.0,2015-10-06,RPG
+PS4,Dead or Alive 5 Last Round,Tecmo Koei,350000.0,2015-02-17,"Arcade, Fighting"
+PS4,Divinity: Original Sin,Focus Home Interactive,340000.0,2015-10-27,"Strategy, Indie, RPG"
+PS3,Racquet Sports,Ubisoft,340000.0,2010-09-14,Sports
+PS3,NHL 09,Electronic Arts,340000.0,2008-09-09,Sports
+PS3,Vancouver 2010 - The Official Video Game of the Olympic Winter Games,Sega,340000.0,2010-01-12,Sports
+PS3,Monopoly,Electronic Arts,340000.0,2008-10-20,"Casual, Strategy, Family, Board Games"
+PS3,The Shoot,Sony Computer Entertainment,340000.0,2010-10-26,Arcade
+PS3,NCAA Basketball 10,Electronic Arts,330000.0,2009-11-17,Sports
+PS3,BlazBlue: Chrono Phantasma,Arc System Works,320000.0,2014-03-25,"Arcade, Fighting"
+PS3,F1 Race Stars,Codemasters,320000.0,2012-11-13,"Family, Racing, Arcade, Sports"
+PS3,Rugby World Cup 2011,505 Games,320000.0,2011-08-26,Sports
+PS3,MLB 07: The Show,Sony Computer Entertainment,320000.0,2007-05-15,Sports
+PS3,FIFA Street 3,EA Sports BIG,320000.0,2008-02-18,Sports
+PS4,XCOM 2,2K Games,310000.0,2016-09-27,"Strategy, RPG"
+PS4,UEFA Euro 2016,Konami Digital Entertainment,310000.0,2016-04-21,Sports
+PS4,Cities: Skylines,Koch Media,300000.0,2017-08-15,"Strategy, Simulation"
+PS3,Tony Hawk: Shred,Activision,290000.0,2010-10-26,"Arcade, Sports"
+PS4,Cars 3: Driven to Win,Warner Bros. Interactive Entertainment,290000.0,2017-06-13,Racing
+PS3,Just Dance 2015,Ubisoft,280000.0,2014-10-21,Arcade
+PS3,Trivial Pursuit,Electronic Arts,280000.0,2009-03-10,Family
+PS3,Guitar Hero: Van Halen,Activision,280000.0,2009-12-22,Arcade
+PS4,Spintires: MudRunner,Focus Home Interactive,280000.0,2017-10-31,Racing
+PS3,Hot Shots Golf: World Invitational,Sony Computer Entertainment,280000.0,2013-07-23,Sports
+PS4,Driveclub VR,Sony Interactive Entertainment,270000.0,2016-10-13,Racing
+PS3,Pro Evolution Soccer 2017,Konami Digital Entertainment,270000.0,2016-09-13,"Simulation, Sports"
+PS3,Spider-Man: Web of Shadows,Activision,260000.0,2008-10-21,Arcade
+PS3,Jikkyou Powerful Pro Yakyuu 2013,Konami Digital Entertainment,260000.0,2013-10-24,"Arcade, Sports"
+PS3,TV Superstars,Sony Computer Entertainment,260000.0,2010-10-12,Arcade
+PS3,Disney Sing It: Pop Hits,Disney Interactive Studios,260000.0,2009-10-06,Arcade
+PS4,Ultimate Marvel vs. Capcom 3,Capcom,260000.0,2017-03-07,Fighting
+PS4,Tetris Effect,Sony Interactive Entertainment,250000.0,2018-11-09,Puzzle
+PS3,Madden NFL 17,EA Sports,250000.0,2016-08-23,Sports
+PS3,NHL 08,Electronic Arts,250000.0,2007-09-11,Sports
+PS3,Major League Baseball 2K7,2K Sports,250000.0,2007-02-26,Sports
+PS3,Ratchet & Clank: Full Frontal Assault,Sony Computer Entertainment,250000.0,2012-11-27,"Strategy, Platformer"
+PS3,Juiced 2: Hot Import Nights,THQ,250000.0,2007-10-22,"Racing, Arcade"
+PS3,NASCAR 09,EA Sports,250000.0,2008-06-10,Sports
+PS4,Danganronpa V3: Killing Harmony,NIS America,250000.0,2017-09-26,Puzzle
+PS3,Teenage Mutant Ninja Turtles: Danger of the Ooze,Activision,250000.0,2014-10-28,Arcade
+PS3,Monster Jam: Path of Destruction,Activision,250000.0,2010-11-09,"Racing, Arcade"
+PS4,Ride,Milestone S.r.l.,240000.0,2015-06-23,"Racing, Simulation, Sports"
+PS3,Cabela's Big Game Hunter 2012,Activision,240000.0,2011-09-27,"Shooter, Sports"
+PS4,The Escapists 2,Sold Out,240000.0,2017-08-22,"Strategy, Indie, Simulation"
+PS4,The Elder Scrolls Online: Morrowind,Bethesda Softworks,240000.0,2017-06-06,"Massively Multiplayer, RPG"
+PS3,Fuel,Codemasters,240000.0,2009-06-02,"Racing, Arcade"
+PS4,Digimon World: Next Order,Namco Bandai Games,240000.0,2017-01-31,RPG
+PS4,.hack//G.U. Last Recode,Namco Bandai Games,240000.0,2017-11-03,RPG
+PS3,Ar tonelico Qoga: Knell of Ar Ciel,NIS America,240000.0,2011-03-15,"Adventure, RPG"
+PS3,Just Dance Kids 2,Ubisoft,240000.0,2011-10-25,"Family, Arcade"
+PS3,Grand Slam Tennis 2,EA Sports,240000.0,2012-02-14,Sports
+PS4,theHunter: Call of the Wild,THQ Nordic,240000.0,2017-10-02,"Shooter, Adventure, Simulation, Sports"
+PS4,Just Dance 2017,Ubisoft,240000.0,2016-10-25,"Casual, Family"
+PS3,Singularity,Activision,240000.0,2010-06-29,Shooter
+PS3,Carnival Island,Sony Computer Entertainment,230000.0,2011-11-15,Arcade
+PS3,Hannah Montana: The Movie,Disney Interactive Studios,230000.0,2009-04-07,Arcade
+PS3,Rune Factory: Tides of Destiny,Natsume,230000.0,2011-10-11,RPG
+PS4,Tony Hawk's Pro Skater 5,Activision,230000.0,2015-09-29,"Arcade, Sports"
+PS3,Cross Edge,NIS America,230000.0,2009-05-26,RPG
+PS3,Madagascar: Escape 2 Africa,Activision,230000.0,2008-11-04,"Family, Platformer, Arcade"
+PS3,UFC Personal Trainer: The Ultimate Fitness System,THQ,220000.0,2011-06-28,"Arcade, Sports"
+PS3,Pinball Hall of Fame: The Williams Collection,Crave Entertainment,220000.0,2009-09-22,"Arcade, Simulation"
+PS3,Afrika,Natsume,220000.0,2009-10-06,Sports
+PS4,The Wolf Among Us,Telltale Games,220000.0,2014-11-04,Adventure
+PS4,Life Is Strange: Before the Storm,Square Enix,220000.0,2018-03-06,Adventure
+PS3,Child of Eden,Ubisoft,220000.0,2011-09-27,"Shooter, Arcade"
+PS3,The Legend of Heroes: Trails of Cold Steel II,Xseed Games,220000.0,2016-09-06,RPG
+PS3,MotoGP 09/10,Capcom,220000.0,2010-03-23,"Racing, Simulation"
+PS3,Champion Jockey: G1 Jockey & Gallop Racer,Tecmo Koei,210000.0,2011-11-08,"Racing, Sports"
+PS4,NBA Live 16,EA Sports,210000.0,2015-09-29,Sports
+PS3,SBK X: Superbike World Championship,Deep Silver,210000.0,2010-12-07,Racing
+PS3,Plants vs. Zombies,PopCap Games,210000.0,2011-11-15,"Strategy, Arcade, Puzzle"
+PS4,7 Days to Die,Telltale Games,210000.0,2016-06-28,"Shooter, Indie, RPG"
+PS3,The Legend of Heroes: Trails of Cold Steel,Xseed Games,210000.0,2015-12-22,RPG
+PS3,Move Fitness,Sony Computer Entertainment,210000.0,2013-03-26,Arcade
+PS3,Mobile Suit Gundam: Crossfire,Namco Bandai,200000.0,2006-11-13,Simulation
+PS4,MotoGP 14,Namco Bandai Games,200000.0,2014-11-04,"Racing, Simulation, Sports"
+PS3,Shaun White Skateboarding,Ubisoft,200000.0,2010-10-24,"Arcade, Sports"
+PS3,Pro Yakyuu Spirits 2013,Konami Digital Entertainment,200000.0,2013-03-20,Sports
+PS3,Arcana Heart 3,Aksys Games,200000.0,2014-09-23,"Arcade, Fighting"
+PS3,Apache: Air Assault,Activision,200000.0,2010-11-16,"Racing, Arcade, Simulation"
+PS3,Enchanted Arms,Ubisoft,200000.0,2007-04-03,RPG
+PS3,Kung Fu Rider,Sony Computer Entertainment,200000.0,2010-09-17,Arcade
+PS3,Major League Baseball 2K12,Take-Two Interactive,200000.0,2012-03-06,Sports
+PS3,Major League Baseball 2K11,2K Sports,200000.0,2011-03-08,Sports
+PS3,Armored Core: For Answer,Ubisoft,190000.0,2008-09-16,Simulation
+PS3,Rango: The Video Game,Paramount Digital Entertainment,190000.0,2011-03-01,Arcade
+PS3,DanceDanceRevolution,Konami,190000.0,2010-11-16,Arcade
+PS3,Major League Baseball 2K10,2K Sports,190000.0,2010-03-02,Sports
+PS3,International Cricket 2010,Codemasters,190000.0,2010-06-18,Sports
+PS4,NBA Live 19,Electronic Arts,190000.0,2018-09-07,"Simulation, Sports"
+PS3,Fairy Fencer F,NIS America,190000.0,2014-09-16,RPG
+PS3,DiRT Showdown,Codemasters,180000.0,2012-06-12,"Racing, Arcade"
+PS3,Backbreaker,505 Games,180000.0,2010-06-01,Sports
+PS3,EyePet & Friends,Sony Computer Entertainment,180000.0,2011-11-15,Family
+PS3,How to Train Your Dragon,Activision,180000.0,2010-03-23,Arcade
+PS4,Nights of Azure,Tecmo Koei,180000.0,2016-03-29,RPG
+PS3,Trinity Universe,NIS America,180000.0,2010-06-29,RPG
+PS3,Brunswick Pro Bowling,Crave Entertainment,180000.0,2010-09-21,Sports
+PS3,Full Auto 2: Battlelines,Sega,180000.0,2006-12-07,"Racing, Arcade"
+PS3,NBA Street Homecourt,Electronic Arts,170000.0,2007-03-06,Sports
+PS4,Final Fantasy XIV: Heavensward,Square Enix,170000.0,2015-06-23,"Massively Multiplayer, RPG"
+PS3,Time and Eternity,NIS America,170000.0,2013-07-16,RPG
+PS3,Disney Sing It: Family Hits,Disney Interactive Studios,170000.0,2010-08-03,Arcade
+PS4,Just Dance 2019,Ubisoft,170000.0,2018-10-23,"Casual, Family"
+PS3,Ashes Cricket 2009,Codemasters,170000.0,2009-08-07,Sports
+PS3,MotoGP 10/11,Capcom,170000.0,2011-03-15,"Racing, Simulation"
+PS3,Ar nosurge: Ode to an Unborn Star,Tecmo Koei,170000.0,2014-09-23,RPG
+PS3,Hyperdimension Neptunia Victory,Compile Heart,170000.0,2013-03-21,RPG
+PS4,Final Fantasy XIV: Stormblood,Square Enix,170000.0,2017-06-20,"Massively Multiplayer, RPG"
+PS3,Jikkyou Powerful Pro Yakyuu 2014,Konami Digital Entertainment,170000.0,2014-10-23,"Arcade, Sports"
+PS3,Fairytale Fights,Playlogic Game Factory,170000.0,2009-10-27,Arcade
+PS3,Major League Baseball 2K9,2K Sports,170000.0,2009-03-03,Sports
+PS3,Chaotic: Shadow Warriors,Activision,170000.0,2009-11-17,Strategy
+PS3,FaceBreaker,EA Sports,170000.0,2008-09-03,"Arcade, Fighting, Sports"
+PS4,Putty Squad,System 3,160000.0,2013-11-29,"Platformer, Arcade"
+PS4,Ride 2,Milestone S.r.l,160000.0,2017-02-14,"Racing, Simulation, Sports"
+PS3,The King of Fighters XII,Ignition Entertainment,160000.0,2009-07-28,"Arcade, Fighting"
+PS3,Heroes Over Europe,Ubisoft,160000.0,2009-09-15,Arcade
+PS4,Pillars of Eternity,Paradox Interactive,160000.0,2017-08-29,RPG
+PS3,Mugen Souls,NIS America,160000.0,2012-09-30,"Strategy, Adventure, RPG"
+PS3,Bejeweled 3,PopCap Games,150000.0,2011-11-15,"Casual, Strategy, Family, Puzzle"
+PS3,Tears to Tiara II: Heir of the Overlord,NIS America,150000.0,2014-10-14,Strategy
+PS4,Super Robot Wars V,Namco Bandai Games,150000.0,2017-02-23,Strategy
+PS4,Psycho-Pass: Mandatory Happiness,NIS America,150000.0,2016-09-13,Adventure
+PS4,NASCAR Heat Evolution,Dusenberry Martin Racing,150000.0,2016-09-13,Racing
+PS3,High Velocity Bowling,Sony Computer Entertainment,150000.0,2010-09-21,"Arcade, Simulation, Sports"
+PS3,NHL 2K10,2K Sports,150000.0,2009-09-15,Sports
+PS3,Fantastic Four: Rise of the Silver Surfer,2K Games,150000.0,2007-06-15,Arcade
+PS3,Record of Agarest War 2,Aksys Games,150000.0,2012-06-26,"Strategy, RPG"
+PS3,Farming Simulator 2013,Focus Home Interactive,150000.0,2013-11-19,"Casual, Strategy, Simulation"
+PS3,Power Gig: Rise of the SixString,Unknown,140000.0,2010-10-19,Arcade
+PS4,Grand Kingdom,NIS America,140000.0,2016-06-28,"Strategy, RPG"
+PS4,Pro Cycling Manager 2016,Focus Home Interactive,140000.0,2016-06-16,"Racing, Simulation, Sports"
+PS4,Mega Man X Legacy Collection 1+2,Capcom Entertainment,140000.0,2018-07-24,Platformer
+PS4,MotoGP 17,Koch Media,140000.0,2017-07-11,"Racing, Simulation, Sports"
+PS3,Shining Resonance,Sega,140000.0,2014-12-11,RPG
+PS3,NFL Head Coach 09,EA Sports,140000.0,2008-09-03,"Simulation, Sports"
+PS4,Fairy Fencer F: Advent Dark Force,Idea Factory International,140000.0,2016-07-26,"Adventure, RPG"
+PS4,Rugby 15,Maximum Games,130000.0,2015-02-24,Sports
+PS3,Supremacy MMA,505 Games,130000.0,2011-09-20,"Arcade, Fighting"
+PS4,NASCAR Heat 3,704Games,130000.0,2018-09-07,Racing
+PS4,The Golf Club,Maximum Games,130000.0,2015-04-28,"Simulation, Sports"
+PS4,NASCAR Heat 2,704Games,130000.0,2017-09-12,Racing
+PS3,The BIGS 2,2K Sports,130000.0,2009-07-07,Sports
+PS3,Just Dance 2017,Ubisoft,130000.0,2016-10-25,"Casual, Family"
+PS4,Don Bradman Cricket 14,Tru Blu Entertainment,130000.0,2015-04-01,"Indie, Simulation, Sports"
+PS4,The Legend of Heroes: Trails of Cold Steel III,NIS America,130000.0,2019-09-24,RPG
+PS4,Utawarerumono: Mask of Deception,Atlus,130000.0,2017-05-23,"Strategy, Adventure, RPG, Simulation"
+PS4,The Legend of Heroes: Trails of Cold Steel IV,NIS America,130000.0,2020-10-27,RPG
+PS4,Utawarerumono: Mask of Truth,Atlus,130000.0,2017-09-05,"Strategy, Adventure, RPG, Simulation"
+PS3,Everybody Dance,Sony Computer Entertainment,130000.0,2011-10-18,Arcade
+PS3,Record of Agarest War Zero,Aksys Games,130000.0,2011-06-14,"Strategy, RPG"
+PS4,The Inpatient,Sony Interactive Entertainment,130000.0,2018-01-23,Adventure
+PS4,MX vs ATV All Out,THQ Nordic,120000.0,2018-03-27,"Racing, Sports"
+PS3,Overlord: Raising Hell,Codemasters,120000.0,2008-06-24,RPG
+PS3,Venetica,Atari,120000.0,2011-01-11,RPG
+PS3,Family Game Night 4: The Game Show,Electronic Arts,120000.0,2011-11-01,"Family, Arcade, Board Games"
+PS4,Subnautica,Gearbox Software,120000.0,2018-12-04,"Indie, Adventure"
+PS3,nail'd,Deep Silver,120000.0,2010-11-30,Racing
+PS4,Marvel's Guardians of the Galaxy: The Telltale Series,Warner Bros. Interactive Entertainment,120000.0,2017-05-02,Adventure
+PS3,Wipeout 2,Activision,120000.0,2011-10-11,"Platformer, Arcade, Sports"
+PS4,Fire Pro Wrestling World,Spike Chunsoft,120000.0,2018-08-28,"Simulation, Sports"
+PS3,NCIS,Ubisoft,120000.0,2011-11-01,Adventure
+PS3,MotoGP 14,Namco Bandai Games,120000.0,2014-11-04,"Racing, Simulation, Sports"
+PS3,DreamWorks Super Star Kartz,Activision,120000.0,2011-11-15,"Racing, Arcade"
+PS3,Disney Sing It: Party Hits,Disney Interactive Studios,120000.0,2010-09-28,Arcade
+PS3,After Hours Athletes,Sony Computer Entertainment,120000.0,2011-11-18,Sports
+PS4,The Invisible Hours,GameTrust,110000.0,2017-10-10,"Casual, Adventure"
+PS4,SD Gundam G Generation Genesis,Namco Bandai Games,110000.0,2016-11-22,Strategy
+PS4,Monster Energy Supercross - The Official Videogame,Milestone S.r.l.,110000.0,2018-02-13,"Racing, Sports"
+PS4,RiME,Grey Box,110000.0,2017-05-26,"Adventure, Puzzle"
+PS3,John Daly's ProStroke Golf,O-Games,110000.0,2010-10-05,Sports
+PS3,NASCAR '14,Deep Silver,110000.0,2014-02-18,"Racing, Simulation"
+PS3,Where the Wild Things Are,Warner Bros. Interactive,110000.0,2009-10-13,Arcade
+PS3,Robotics;Notes,5pb,110000.0,2012-06-28,Adventure
+PS3,Cabela's Adventure Camp,Activision,110000.0,2011-11-01,Arcade
+PS4,NAtURAL DOCtRINE,NIS America,100000.0,2014-09-30,RPG
+PS3,Nascar Unleashed,Activision,100000.0,2011-11-01,Racing
+PS4,Let's Sing 2016,Ravenscourt,100000.0,2015-10-23,Casual
+PS4,Guilty Gear Xrd REV 2,Aksys Games,100000.0,2017-05-26,Fighting
+PS3,Rugby 15,Maximum Games,100000.0,2015-02-24,Sports
+PS3,UEFA Euro 2016,Konami Digital Entertainment,100000.0,2016-04-21,Sports
+PS3,Leisure Suit Larry: Box Office Bust,Codemasters,100000.0,2009-05-05,Arcade
+PS4,Stardew Valley,505 Games,100000.0,2017-04-11,"Indie, RPG, Simulation"
+PS4,Déraciné,Sony Interactive Entertainment,100000.0,2018-11-06,Adventure
+PS4,The Elder Scrolls Online: Summerset,Bethesda Softworks,100000.0,2018-05-21,"Massively Multiplayer, RPG"
+PS3,Ultimate Marvel vs. Capcom 3,Capcom,100000.0,2011-11-15,Fighting
+PS3,PDC World Championship Darts: Pro Tour,O-Games,100000.0,2010-11-26,Sports
+PS3,NASCAR The Game: Inside Line,Activision,90000.0,2012-11-06,Racing
+PS3,Last Rebellion,NIS America,90000.0,2010-02-23,RPG
+PS3,Dance on Broadway,Ubisoft,90000.0,2011-03-15,Arcade
+PS4,Grand Ages: Medieval,Kalypso Media,90000.0,2015-09-29,"Strategy, RPG, Simulation"
+PS4,Dark Rose Valkyrie,Idea Factory International,90000.0,2017-06-06,RPG
+PS3,Truth or Lies,THQ,90000.0,2010-09-14,RPG
+PS4,Rugby League Live 4,Tru Blu Entertainment,90000.0,2017-07-28,Sports
+PS3,Singstar: Ultimate Party,Sony Computer Entertainment Europe,90000.0,2014-10-24,Arcade
+PS3,Ben 10 Galactic Racing,D3 Publisher,90000.0,2011-10-18,"Family, Racing, Arcade"
+PS4,ATV Drift & Tricks,Maximum Games,90000.0,2017-11-07,"Racing, Sports"
+PS4,Taiko no Tatsujin: Drum Session!,Namco Bandai Games,90000.0,2017-10-26,Arcade
+PS4,Summon Night 6: Lost Borders,Gaijinworks,90000.0,2017-10-31,RPG
+PS3,Pro Evolution Soccer 2018,Konami Digital Entertainment,90000.0,2017-09-12,Sports
+PS3,SingStar Guitar,Sony Computer Entertainment,90000.0,2010-10-08,Arcade
+PS3,Destroy All Humans! Path of the Furon,Unknown,90000.0,2020-12-31,Arcade
+PS3,The Penguins of Madagascar: Dr. Blowhole Returns - Again!,THQ,80000.0,2011-09-13,"Platformer, Arcade"
+PS3,Tears to Tiara: Kakan no Daichi,Aquaplus,80000.0,2008-07-17,Adventure
+PS4,Assetto Corsa,505 Games,80000.0,2016-08-30,"Racing, Indie, Simulation, Sports"
+PS3,Winter Stars,Deep Silver,80000.0,2011-11-10,Sports
+PS3,Order Up!!,Ignition Entertainment,80000.0,2012-02-28,"Arcade, Simulation"
+PS4,Shining Resonance Refrain,Sega,80000.0,2018-07-10,"Adventure, RPG"
+PS4,Rapala Fishing Pro Series,GameMill,80000.0,2017-10-24,Simulation
+PS3,Man vs. Wild,Crave Entertainment,80000.0,2011-04-26,"Arcade, Sports"
+PS4,Gravel,Milestone S.r.l.,80000.0,2018-02-27,"Racing, Arcade, Sports"
+PS3,MLB Front Office Manager,2K Sports,80000.0,2009-01-26,"Strategy, Sports"
+PS3,Jimmie Johnson's Anything With an Engine,Konami,80000.0,2011-11-01,"Racing, Arcade"
+PS3,Lost Dimension,Atlus,80000.0,2015-07-28,"Strategy, RPG"
+PS3,WSC Real 11: World Snooker Championship,Koch Media,80000.0,2011-04-15,Sports
+PS3,Little League World Series Baseball 2010,Activision,80000.0,2010-07-20,"Arcade, Sports"
+PS4,Spintires: MudRunner - American Wilds,Focus Home Interactive,80000.0,2018-10-23,"Racing, Simulation"
+PS3,AKB1/149: Love Election,Namco Bandai Games,80000.0,2013-09-12,Adventure
+PS4,NBA 2K Playgrounds 2,2K Games,80000.0,2018-10-16,Sports
+PS3,Blood Drive,Activision,80000.0,2010-10-26,"Racing, Shooter, Arcade"
+PS3,Deadliest Catch: Sea of Chaos,Crave Entertainment,80000.0,2010-11-29,"Arcade, Simulation"
+PS4,The Sexy Brutale,Badland Games,80000.0,2017-08-29,"Indie, Adventure"
+PS3,Top Gun,505 Games,70000.0,2011-06-14,Arcade
+PS3,Tony Hawk's Pro Skater 5,Activision,70000.0,2015-12-15,"Arcade, Sports"
+PS3,Tokyo Twilight Ghost Hunters,Aksys Games,70000.0,2015-03-10,"Strategy, Adventure"
+PS4,Harvest Moon: Light of Hope,Natsume,70000.0,2018-05-29,"Adventure, RPG, Simulation"
+PS4,Hunting Simulator,Bigben Interactive,70000.0,2017-07-11,"Adventure, Simulation, Sports"
+PS4,I am Setsuna,Square Enix,70000.0,2016-10-01,"Adventure, RPG"
+PS3,Mugen Souls Z,NIS America,70000.0,2014-05-20,"Strategy, Adventure, RPG"
+PS3,Nobunaga no Yabou: Tendou with Power-Up Kit,Tecmo Koei,70000.0,2011-05-26,Strategy
+PS4,The Silver Case,NIS America,70000.0,2017-04-18,Adventure
+PS4,Steins;Gate 0,PQube,70000.0,2016-11-29,Adventure
+PS4,R.B.I. Baseball 18,MLB Advanced Media,70000.0,2018-03-20,"Arcade, Sports"
+PS3,Saint Seiya: Brave Soldiers,Namco Bandai Games,70000.0,2013-11-26,"Arcade, Fighting"
+PS4,Mutant Football League: Dynasty Edition,Nighthawk Interactive,70000.0,2018-10-30,Sports
+PS4,Ride 3,Bandai Namco Entertainment,70000.0,2018-11-30,"Racing, Simulation, Sports"
+PS3,The Guided Fate Paradox,NIS America,70000.0,2013-11-05,RPG
+PS3,Generator Rex: Agent of Providence,Activision,70000.0,2011-11-01,Arcade
+PS3,Super Robot Taisen OG Saga: Masou Kishin III - Pride of Justice,Namco Bandai Games,70000.0,2013-08-22,Strategy
+PS4,Disgaea 1 Complete,NIS America,70000.0,2018-10-09,"Strategy, RPG, Simulation"
+PS3,MotoGP 15,Milestone S.r.l.,60000.0,2015-06-24,"Racing, Simulation, Sports"
+PS4,Aven Colony,Sold Out,60000.0,2017-08-01,"Strategy, Indie, Simulation"
+PS4,Birthdays the Beginning,NIS America,60000.0,2017-05-09,"Strategy, Simulation"
+PS4,MX vs. ATV Supercross Encore,Nordic Games,60000.0,2015-10-27,"Racing, Simulation, Sports"
+PS4,King's Quest: The Complete Collection,Activision,60000.0,2016-10-24,Adventure
+PS4,Battle Chasers: Nightwar,THQ Nordic,60000.0,2017-10-03,"Strategy, Indie, RPG"
+PS4,Rugby World Cup 2015,Big Ben Interactive,60000.0,2015-09-04,Sports
+PS4,Handball 16,Bigben Interactive,60000.0,2015-11-27,Sports
+PS4,Rugby 18,Koch Media,60000.0,2017-10-24,Sports
+PS3,Utawarerumono: Mask of Deception,Aqua Plus,60000.0,2015-09-24,"Strategy, Adventure, RPG, Simulation"
+PS3,Rugby World Cup 2015,Big Ben Interactive,60000.0,2015-09-04,Sports
+PS3,Steins;Gate,5pb,60000.0,2015-09-18,"Adventure, RPG"
+PS4,Dead or Alive Xtreme 3: Fortune,Tecmo Koei,60000.0,2016-03-24,Sports
+PS3,Ride,Milestone S.r.l.,60000.0,2015-06-23,"Racing, Simulation, Sports"
+PS4,MXGP Pro,Milestone S.r.l.,50000.0,2018-07-10,"Racing, Simulation, Sports"
+PS4,Little Dragons Café,Aksys Games,50000.0,2018-08-24,Adventure
+PS4,Don't Starve,Klei Entertainment,50000.0,2018-04-17,Indie
+PS4,Carnival Games,2K Games,50000.0,2018-11-06,Casual
+PS4,Child of Light,Ubisoft,50000.0,2014-04-30,"Indie, RPG"
+PS3,rain,Sony Computer Entertainment,50000.0,2013-10-01,Adventure
+PS4,Overcooked,Sold Out,50000.0,2016-11-15,"Casual, Indie, Arcade, Simulation"
+PS4,Werewolves Within,Ubisoft,50000.0,2016-12-06,"Casual, Strategy, RPG, Simulation"
+PS4,Demon Gaze 2,NIS America,50000.0,2017-11-14,RPG
+PS4,Nobunaga's Ambition: Sphere of Influence,Tecmo Koei,50000.0,2015-09-01,Strategy
+PS3,XBlaze Lost: Memories,Aksys Games,50000.0,2015-08-11,Adventure
+PS4,Prison Architect,Introversion Software,50000.0,2016-06-28,"Strategy, Indie, Simulation"
+PS3,DuckTales: Remastered,Capcom,50000.0,2013-08-13,"Platformer, Adventure"
+PS4,Touhou Genso Wanderer,NIS America,50000.0,2017-03-21,RPG
+PS4,ARK Park,Snail Games USA,50000.0,2018-10-30,"Adventure, Simulation"
+PS4,Fishing Sim World,Dovetail Games,50000.0,2018-09-18,"Simulation, Sports"
+PS3,Nights of Azure,Tecmo Koei,50000.0,2016-03-29,RPG
+PS3,NAtURAL DOCtRINE,NIS America,50000.0,2014-09-30,RPG
+PS4,Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,NIS America,50000.0,2016-09-20,"Strategy, Adventure, RPG"
+PS3,To Heart 2 DX Plus,Aquaplus,50000.0,2011-09-22,Adventure
+PS4,Sébastien Loeb Rally EVO,Square Enix,50000.0,2016-03-22,"Racing, Simulation, Sports"
+PS4,Dakar 18,Deep Silver,50000.0,2018-09-25,Racing
+PS4,Tennis World Tour,Bigben Interactive,40000.0,2018-05-22,"Simulation, Sports"
+PS3,Date A Live: Rine Utopia,Compile Heart,40000.0,2013-06-27,Adventure
+PS3,Deadliest Warrior: Ancient Combat,Unknown,40000.0,2012-04-17,"Arcade, Fighting"
+PS3,National Geographic Challenge!,Ignition Entertainment,40000.0,2011-11-29,"Educational, Puzzle"
+PS3,XBLAZE Code: Embryo,Aksys Games,40000.0,2014-06-24,Adventure
+PS4,Shadow Tactics: Blades of the Shogun,Kalypso Media,40000.0,2017-08-01,"Strategy, Indie"
+PS4,Megadimension Neptunia VIIR,Idea Factory International,40000.0,2018-05-08,RPG
+PS4,Megadimension Neptunia VII,Idea Factory International,40000.0,2016-02-02,"Strategy, RPG"
+PS3,FIFA 19,Electronic Arts,40000.0,2018-09-28,"Simulation, Sports"
+PS3,Surf's Up,Ubisoft,40000.0,2007-05-30,"Arcade, Sports"
+PS4,Persona 3: Dancing in Moonlight,Atlus,40000.0,2018-12-04,Casual
+PS4,Zanki Zero: Last Beginning,Spike Chunsoft,40000.0,2019-04-09,RPG
+PS3,PlayStation Move Ape Escape,Sony Computer Entertainment,40000.0,2011-07-05,Shooter
+PS4,Scribblenauts Mega Pack,Warner Bros. Interactive Entertainment,40000.0,2018-09-18,Adventure
+PS4,Aegis of Earth: Protonovus Assault,Aksys Games,40000.0,2016-03-15,Strategy
+PS4,The Caligula Effect: Overdose,NIS America,40000.0,2019-03-12,RPG
+PS4,That's You!,Sony Interactive Entertainment,40000.0,2017-10-24,Casual
+PS3,Superstars V8 Racing,Black Bean Games,40000.0,2009-06-26,"Racing, Arcade"
+PS4,Pure Farming 2018,Techland,40000.0,2018-03-13,Simulation
+PS4,Rugby Challenge 3,Alternative Software,40000.0,2016-04-22,Sports
+PS3,Aquanaut's Holiday: Kakusareta Kiroku,Sony Computer Entertainment,40000.0,2008-09-25,Adventure
+PS4,Here They Lie,Sony Interactive Entertainment,40000.0,2016-10-13,Adventure
+PS3,Kung Fu Panda: Showdown of Legendary Legends,Little Orbit,40000.0,2015-12-01,Fighting
+PS4,Darkest Dungeon,Red Hook Studios,40000.0,2018-04-24,"Strategy, Indie, RPG"
+PS4,Dungeons 3,Kalypso Media,40000.0,2017-10-17,"Strategy, RPG, Simulation"
+PS3,Shin Hayarigami,Nippon Ichi Software,40000.0,2014-08-07,Adventure
+PS3,Utawarerumono: Mask of Truth,Aqua Plus,40000.0,2016-09-21,"Strategy, Adventure, RPG, Simulation"
+PS4,Just Sing,Ubisoft,40000.0,2016-09-06,"Casual, Simulation"
+PS3,Super Hero Generation,Namco Bandai Games,40000.0,2014-10-23,RPG
+PS3,Summer Challenge: Athletics Tournament,PQube,40000.0,2011-09-02,"Arcade, Sports"
+PS4,Lumo,Rising Star Games,40000.0,2016-08-30,"Indie, Platformer, Adventure, Puzzle"
+PS4,VR Karts,Perp Games,40000.0,2017-11-28,"Casual, Racing, Indie"
+PS3,Get Up and Dance,Crave Entertainment,40000.0,2011-11-15,Arcade
+PS4,ABZU,505 Games,40000.0,2017-01-31,"Indie, Adventure, Simulation"
+PS3,Atelier Sophie: The Alchemist of the Mysterious Book,Tecmo Koei,40000.0,2015-11-19,"Adventure, RPG"
+PS3,Monster High: New Ghoul in School,Little Orbit,40000.0,2015-10-27,"Adventure, RPG"
+PS3,White Album 2: Shiawase no Mukougawa,Aqua Plus,40000.0,2012-12-20,"Casual, Adventure"
+PS3,Final Fantasy XIV: Heavensward,Square Enix,40000.0,2015-06-23,"Massively Multiplayer, RPG"
+PS4,Surviving Mars,Maximum Games,40000.0,2018-03-15,"Strategy, Simulation"
+PS4,Punch Line,PQube,40000.0,2018-10-09,RPG
+PS4,The Talos Principle,Nighthawk Interactive,40000.0,2015-10-13,"Indie, Adventure, Puzzle"
+PS4,Baja: Edge of Control HD,THQ Nordic,30000.0,2017-09-14,"Racing, Sports"
+PS4,Railway Empire,Kalypso Media,30000.0,2018-01-30,"Strategy, Simulation"
+PS4,The Dwarves,THQ Nordic,30000.0,2016-12-01,RPG
+PS4,Zero Escape: Zero Time Dilemma,Rising Star Games,30000.0,2017-08-18,Adventure
+PS4,The Lost Child,NIS America,30000.0,2018-06-19,RPG
+PS4,The Peanuts Movie: Snoopy's Grand Adventure,Activision,30000.0,2015-11-03,Platformer
+PS4,The Raven Remastered,THQ Nordic,30000.0,2018-03-13,Adventure
+PS4,The Town of Light,Wired Productions,30000.0,2017-03-24,"Indie, Adventure"
+PS4,Dino Dini's Kick Off Revival,Avanquest,30000.0,2016-06-24,"Simulation, Sports"
+PS4,Omega Quintet,Compile Heart,30000.0,2015-04-28,"Strategy, Adventure, RPG"
+PS4,Blackguards 2,Kalypso Media,30000.0,2017-09-12,"Indie, Strategy, Adventure, RPG"
+PS4,Blade Arcus from Shining EX,Sega,30000.0,2015-11-26,"Arcade, Fighting"
+PS4,Bridge Constructor Portal,Nighthawk Interactive,30000.0,2018-08-28,"Strategy, Simulation, Puzzle"
+PS4,Let's Sing 2019,Ravenscourt,30000.0,2018-10-26,Casual
+PS4,Legendary Fishing,Ubisoft,30000.0,2018-09-18,Sports
+PS4,Labyrinth of Refrain: Coven of Dusk,NIS America,30000.0,2018-09-18,"Strategy, RPG"
+PS4,South Park: The Stick of Truth,Ubisoft,30000.0,2018-02-13,"Adventure, RPG"
+PS4,Steins;Gate Elite,Spike Chunsoft,30000.0,2019-02-19,"Adventure, RPG"
+PS3,Top Gun: Hard Lock,505 Games,30000.0,2012-03-06,"Shooter, Arcade"
+PS3,MX vs. ATV Supercross,Nordic Games,30000.0,2014-10-28,"Racing, Arcade"
+PS3,Wangan Midnight,Genki,30000.0,2007-07-26,Racing
+PS3,Infinite Stratos 2: Ignition Hearts,5pb,30000.0,2014-02-27,Adventure
+PS3,Blade Arcus from Shining EX,Sega,30000.0,2015-11-26,"Arcade, Fighting"
+PS3,Handball 16,Bigben Interactive,30000.0,2015-11-27,Sports
+PS3,Fritz Chess,Deep Silver,30000.0,2009-07-31,Strategy
+PS4,8-Bit Armies,Soedesco,30000.0,2018-09-21,"Strategy, Indie, Simulation"
+PS3,Darkstalkers Resurrection,Capcom,30000.0,2013-03-13,"Arcade, Fighting"
+PS3,Daito Giken Koushiki Pachi-Slot Simulator Hihouden: Taiyou o Motomeru Monotachi,Paon Corporation,30000.0,2013-04-25,Adventure
+PS3,Steins;Gate 0,5pb,30000.0,2015-12-10,Adventure
+PS3,Aegis of Earth: Protonovus Assault,Aksys Games,30000.0,2016-03-15,Strategy
+PS3,Rugby League Live,Home Entertainment Suppliers,30000.0,2010-11-02,Sports
+PS3,Rugby Challenge 3,Alternative Software,30000.0,2016-04-22,Sports
+PS3,SuperCar Challenge,System 3 Arcade Software,30000.0,2009-08-28,"Racing, Simulation"
+PS3,Super Heroine Chronicle,Namco Bandai Games,30000.0,2014-02-06,"Strategy, RPG"
+PS4,Tricky Towers,Soedesco,20000.0,2017-11-17,"Casual, Indie, Arcade, Puzzle"
+PS4,Natsuiro High School: Seishun Hakusho,D3Publisher,20000.0,2015-06-04,Adventure
+PS4,Dungeons 2,Kalypso Media,20000.0,2016-04-26,"Strategy, RPG, Simulation"
+PS4,Armello,League of Geeks,20000.0,2018-03-13,"Adventure, RPG, Strategy, Indie, Board Games"
+PS4,Dragon Star Varnir,Compile Heart,20000.0,2019-06-11,"Adventure, RPG"
+PS4,428: Shibuya Scramble,Spike Chunsoft,20000.0,2018-09-04,Adventure
+PS4,Lost Sphear,Square Enix,20000.0,2018-01-23,RPG
+PS4,The Inner World: The Last Wind Monk,Kalypso Media,20000.0,2017-10-24,"Indie, Adventure"
+PS4,This Is The Police,THQ Nordic,20000.0,2017-03-22,"Indie, Strategy, Adventure, Simulation"
+PS4,Chaos;Child,PQube,20000.0,2017-10-24,"Adventure, RPG"
+PS4,Super Stardust Ultra VR,Sony Interactive Entertainment,20000.0,2016-10-10,Arcade
+PS3,Motto! SoniComi,Kadokawa Games,20000.0,2014-03-20,Adventure
+PS3,Natsuiro High School: Seishun Hakusho,D3Publisher,20000.0,2015-06-04,Adventure
+PS4,Flipping Death,Rising Star,20000.0,2018-10-16,"Indie, Adventure"
+PS4,FlatOut 4: Total Insanity,Unfinished Pixel,20000.0,2017-05-05,Racing
+PS3,Chaos;Child,5pb,20000.0,2015-06-25,"Adventure, RPG"
+PS3,Captain Morgane and the Golden Turtle,Reef Entertainment,20000.0,2012-02-03,"Casual, Adventure"
+PS4,Adventure Time: Pirates of the Enchiridion,Outright Games,20000.0,2018-07-17,Adventure
+PS4,Rugby League Live 3,Tru Blu Entertainment,20000.0,2015-09-17,Sports
+PS4,Professional Farmer 2016,Namco Bandai Games,20000.0,2015-11-20,Simulation
+PS3,Battle Princess of Arcadias,NIS America,20000.0,2014-06-17,"Adventure, RPG"
+PS4,Rabbids Invasion: The Interactive TV Show,Ubisoft,20000.0,2014-11-18,Family
+PS4,Wordhunters,Wired Productions,10000.0,2018-12-04,Puzzle
+PS3,Hyperdimension Neptunia mk2,NIS America,10000.0,2012-02-28,RPG
+PS4,Jagged Alliance: Rage!,THQ Nordic,10000.0,2018-12-07,"Strategy, Adventure, RPG, Simulation"
+PS4,RPG Maker MV,NIS America,10000.0,2019-03-01,RPG
+PS3,Putty Squad,System 3,10000.0,2013-11-29,"Platformer, Arcade"
+PS3,Hakuoki: Stories of the Shinsengumi,Aksys Games,10000.0,2014-05-06,"Casual, Adventure"
+PS4,Lapis x Labyrinth,Nippon Ichi Software,10000.0,2018-11-29,RPG
+PS4,Battle Worlds: Kronos,Nordic Games,10000.0,2016-05-10,Strategy
+PS4,ATV Renegades,Nighthawk Interactive,10000.0,2017-04-18,Racing
+PS4,Yoku's Island Express,Villa Gorilla,10000.0,2018-06-19,"Indie, Adventure"
+PS3,Barbie and Her Sisters Puppy Rescue,Little Orbit,10000.0,2015-11-03,"Arcade, Casual, Adventure"
+PS3,Muv-Luv,5pb,10000.0,2012-10-25,"Casual, Adventure"
+PS3,Mist of Chaos,Idea Factory,10000.0,2007-03-22,Strategy
+PS4,Super Meat Boy,Team Meat,10000.0,2016-04-29,"Platformer, Indie"
+PS4,Maitetsu: Pure Station,Yeti,10000.0,2018-07-26,Adventure
+PS4,Hakoniwa Company Works,Nippon Ichi Software,10000.0,2017-07-13,RPG
+PS3,Rugby League Live 3,Tru Blu Entertainment,10000.0,2015-09-24,Sports
+PS4,Torment: Tides of Numenera,Techland,10000.0,2017-02-28,"Indie, Strategy, Adventure, RPG"
+PS4,V-Rally 4,Bigben Interactive,10000.0,2018-09-11,Racing
+PS3,Derby Time Online,Sony Computer Entertainment,10000.0,2008-11-13,Sports
+PS4,Moto Racer 4,Microids,10000.0,2017-01-24,Racing
+PS4,Undertale,Toby Fox,10000.0,2017-08-15,"Indie, RPG"
+PS3,Don Bradman Cricket 14,Tru Blu Entertainment,10000.0,2014-04-03,"Indie, Simulation, Sports"
+PS3,Disorder 6,5pb,10000.0,2013-08-22,Adventure
+PS3,Shin Koihime Musou: Otome Taisen * Sangokushi Engi,Views,10000.0,2014-02-20,"Arcade, Fighting"
+PS4,The Infectious Madness of Doctor Dekker,Wales Interactive Ltd.,0.0,2018-06-05,"Casual, Indie, Adventure, Simulation"
+PS4,Tetris Ultimate,Ubisoft,0.0,2014-12-16,"Casual, Puzzle"
+PS4,The Banner Saga,Versus Evil,0.0,2016-01-12,"Strategy, Indie, RPG"
+PS5,PowerWash Simulator,Square Enix,0.0,2023-01-31,"Casual, Indie, Simulation"
+PS4,The Assembly,nDreams,0.0,2016-10-13,"Indie, Adventure"
+PS4,Tethered,Secret Sorcery,0.0,2016-10-25,"Indie, Strategy, Adventure"
+PS4,The Banner Saga 2,Versus Evil,0.0,2016-07-26,"Strategy, Indie, RPG"
+PS4,Toren,Versus Evil,0.0,2016-01-01,"Indie, Adventure"
+PS4,Toki Tori 2+,Soedesco,0.0,2016-06-07,"Casual, Indie, Adventure, Puzzle"
+PS4,The Unfinished Swan,Sony Computer Entertainment,0.0,2014-10-28,"Indie, Adventure, Puzzle"
+PS4,The Pinball Arcade,FarSight Studios,0.0,2013-11-15,"Arcade, Simulation"
+PS4,Tiny Troopers Joint Ops,Unknown,0.0,2014-11-18,"Casual, Shooter"
+PS4,ToeJam & Earl: Back in the Groove,HumaNature Studios,0.0,2019-03-01,"Platformer, Adventure"
+PS4,The Witness,"Thekla, Inc.",0.0,2016-01-26,"Indie, Adventure, Puzzle"
+PS4,There Came an Echo,Iridium,0.0,2015-02-24,"Strategy, Indie"
+PS5,Soul Hackers 2,Sega,0.0,2022-08-26,RPG
+PS4,SPORTSFRIENDS,Unknown,0.0,2014-05-06,"Indie, Arcade, Sports"
+PS4,Super Motherload,XGen Studios,0.0,2014-01-01,"Adventure, RPG, Puzzle, Casual, Indie"
+PS5,WWE 2K23,2K Games,0.0,2023-03-17,"Fighting, Simulation, Sports"
+PS5,Star Ocean: The Divine Force,Square Enix,0.0,2022-10-27,RPG
+PS5,Just Dance 2021,Ubisoft,0.0,2020-11-12,"Casual, Family"
+PS5,EA Sports FC 24,Electronic Arts,0.0,2023-09-29,"Casual, Simulation, Sports"
+PS5,EA Sports PGA Tour,EA Sports,0.0,2015-07-01,"Simulation, Sports"
+PS5,DiRT 5,Codemasters,0.0,2020-12-09,"Racing, Arcade"
+PS5,Goodbye Volcano High,KO_OP Mode,0.0,2021-12-01,"Indie, Adventure"
+PS5,Gran Turismo 7,Sony Interactive Entertainment,0.0,2022-03-04,Racing
+PS5,F1 2021,Codemasters,0.0,2021-07-13,"Racing, Simulation, Sports"
+PS5,F1 22,Codemasters,0.0,2022-07-01,"Racing, Sports"
+PS5,F1 23,Electronic Arts,0.0,2023-06-16,"Racing, Simulation, Sports"
+PS5,FIFA 21,Electronic Arts,0.0,2020-12-31,Sports
+PS5,Jurassic World Evolution 2,Frontier Developments,0.0,2021-11-09,"Strategy, Simulation"
+PS4,Worms Battlegrounds,Team17 Software,0.0,2014-06-03,Strategy
+PS4,XING: The Land Beyond,White Lotus Interactive,0.0,2017-01-01,"Indie, Adventure"
+PS4,What Remains of Edith Finch,Unknown,0.0,2017-04-25,"Indie, Adventure"
+PS4,flOw,Sony Computer Entertainment,0.0,2013-12-17,"Racing, Adventure, Puzzle, Arcade, Simulation, Indie"
+PS4,flower,Sony Computer Entertainment,0.0,2013-11-15,"Arcade, Family, Casual, Adventure"
+PS4,Road Not Taken,Spry Fox,0.0,2014-08-05,"Indie, RPG, Puzzle"
+PS5,Neva,Devolver Digital,0.0,2024-10-15,"Indie, Adventure, Puzzle"
+PS4,Wander,Wander MMO,0.0,2015-06-04,"Massively Multiplayer, Adventure"
+PS5,NBA 2K21,2K Sports,0.0,2020-11-12,"Simulation, Sports"
+PS5,Observer: System Redux,Bloober Team,0.0,2020-11-12,"Indie, Adventure"
+PS4,Valiant Hearts: The Great War,Ubisoft,0.0,2014-06-25,"Adventure, Puzzle"
+PS5,Lost Records: Bloom & Rage,DONTNOD Entertainment,0.0,2025-02-18,"Indie, Adventure"
+PS5,Clair Obscur: Expedition 33,Kepler Interactive,0.0,2025-04-24,RPG
+PS5,Afterimage,Modus Games,0.0,2023-04-25,Platformer
+PS5,Baldur's Gate III,Larian Studios,0.0,2023-09-06,"Strategy, Adventure, RPG"
+PS5,Atelier Marie Remake: The Alchemist of Salburg,Koei Tecmo,0.0,2023-07-13,"Casual, RPG"
+PS4,Reus,Soedesco,0.0,2016-10-11,"Strategy, Indie, Simulation"
+PS3,The Unfinished Swan,Sony Computer Entertainment,0.0,2012-10-16,"Indie, Adventure, Puzzle"
+PS3,Thomas Was Alone,DECK13 Interactive GmbH,0.0,2013-04-23,"Family, Indie, Adventure"
+PS3,Tekken 6,Namco Bandai,0.0,2009-10-27,"Arcade, Fighting"
+PS3,Tekken Revolution,Namco Bandai Games,0.0,2013-06-11,"Arcade, Fighting"
+PS3,Tekken Tag Tournament 2,Namco Bandai Games,0.0,2012-09-11,"Arcade, Fighting"
+PS3,The Cave,Sega,0.0,2012-01-22,"Adventure, Puzzle"
+PS3,The Elder Scrolls V: Skyrim - Dawnguard,Bethesda Softworks,0.0,2013-02-26,RPG
+PS3,The Elder Scrolls V: Skyrim - Hearthfire,Bethesda Softworks,0.0,2013-02-19,RPG
+PS3,Tiny Troopers Joint Ops,Unknown,0.0,2014-11-18,"Casual, Shooter"
+PS3,Walking with Dinosaurs,Sony Computer Entertainment Europe,0.0,2013-11-13,"Family, Educational, Adventure, Puzzle"
+PS3,Valiant Hearts: The Great War,Ubisoft,0.0,2014-06-25,"Adventure, Puzzle"
+PS3,Toybox Turbos,Codemasters,0.0,2015-01-01,"Racing, Family"
+PS3,Tales of Xillia,Namco Bandai Games,0.0,2013-08-06,RPG
+PS3,Tales of Symphonia: Dawn of the New World,Namco Bandai Games,0.0,2014-02-25,RPG
+PS3,Retro City Rampage,Vblank Entertainment Inc.,0.0,2012-10-09,Arcade
+PS3,Rise of the Guardians: The Video Game,D3Publisher,0.0,2012-11-20,Arcade
+PS3,Robot Rescue Revolution,Teyon Entertainment,0.0,2013-12-04,"Casual, Indie"
+PS3,Rozen Maiden: Wechseln Sie Welt ab,5pb,0.0,2014-01-30,Adventure
+PS3,Rugby League Live 2,Tru Blu Entertainment,0.0,2012-10-09,Sports
+PS3,SPORTSFRIENDS,Unknown,0.0,2014-05-06,"Indie, Arcade, Sports"
+PS3,Sports Champions 2,Sony Computer Entertainment,0.0,2012-10-30,"Casual, Arcade, Sports"
+PS3,Star Ocean: The Last Hope,Square Enix,0.0,2010-02-08,RPG
+PS3,Star Wars Pinball,Zen Studios,0.0,2013-05-14,Arcade
+PS3,Super Motherload,XGen Studios,0.0,2014-01-01,"Adventure, RPG, Puzzle, Casual, Indie"
+PS3,Spelunky,Sony Computer Entertainment America,0.0,2013-08-27,"Platformer, Indie"
+PS3,Spartacus Legends,Ubisoft,0.0,2013-06-25,"Arcade, Fighting"
+PS3,Skydive: Proximity Flight,Gaijin Entertainment,0.0,2013-10-01,"Arcade, Sports"
+PS3,Sonic & All-Stars Racing Transformed,Sega,0.0,2012-11-18,"Racing, Family, Sports"
+PS3,Sonic the Hedgehog (2006),Sega,0.0,2007-01-30,Platformer
+PS3,SoulCalibur V,Namco Bandai,0.0,2012-01-31,Fighting
+PS3,SoulCalibur: Lost Swords,Namco Bandai Games,0.0,2014-04-22,"Arcade, Fighting"
+PS3,Space Hulk,Funbox Media,0.0,2015-10-23,"Strategy, Indie, Board Games"
+PS4,Afterimage,Modus Games,0.0,2023-04-25,Platformer
+PS4,Age of Wonders: Planetfall,Paradox Interactive,0.0,2019-08-06,Strategy
+PS4,Adr1ft,505 Games,0.0,2016-07-15,"Indie, Adventure"
+PS4,Alone With You,Benjamin Rivers Inc.,0.0,2016-08-23,"Casual, Indie, Adventure"
+PS4,ACA NEOGEO WORLD HEROES,Hamster Corporation,0.0,2017-01-26,Arcade
+PS4,ACA NEOGEO ZED BLADE,Hamster Corporation,0.0,2017-08-30,Arcade
+PS4,AI: The Somnium Files,Spike Chunsoft,0.0,2019-09-17,Adventure
+PS4,AO International Tennis,Big Ant Studios,0.0,2018-05-08,Sports
+PS4,AO Tennis 2,Big Ben Interactive,0.0,2020-01-09,Sports
+PS4,Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz,Arc System Works,0.0,2019-05-23,Adventure
+PS4,Alvastia Chronicles,Kemco,0.0,2019-02-12,"Casual, Indie, Adventure, RPG"
+PS4,Arc the Lad: Twilight of the Spirits,Sony Computer Entertainment,0.0,2016-01-12,"Strategy, RPG"
+PS4,American Ninja Warrior: Challenge,GameMill Entertainment,0.0,2019-03-19,Sports
+PS4,Among The Sleep,Soedesco,0.0,2016-08-16,"Indie, Adventure"
+PS4,Antiquia Lost,Kemco,0.0,2018-07-31,"Casual, Indie, Adventure, RPG"
+PS4,Ape Escape 2,Sony Interactive Entertainment,0.0,2016-08-02,Platformer
+PS4,ACA NEOGEO THE LAST BLADE,Hamster Corporation,0.0,2017-06-15,Fighting
+PS4,ACA NEOGEO THE KING OF FIGHTERS '98,Hamster Corporation,0.0,2018-02-26,"Arcade, Fighting"
+PS4,2064: Read Only Memories,MidBoss,0.0,2017-01-17,"Adventure, Puzzle"
+PS4,7th Sector,Sometimes You,0.0,2020-02-05,"Indie, Adventure"
+PS4,A King's Tale: Final Fantasy XV,Square Enix,0.0,2017-03-01,RPG
+PS4,ACA NEOGEO FATAL FURY,Hamster Corporation,0.0,2017-01-12,Fighting
+PS4,ACA NEOGEO ALPHA MISSION II,Hamster Corporation,0.0,2017-01-10,Shooter
+PS4,ACA NEOGEO ART OF FIGHTING,Hamster Corporation,0.0,2017-04-20,Fighting
+PS4,ACA NEOGEO ART OF FIGHTING 2,Hamster Corporation,0.0,2017-08-11,Fighting
+PS4,13 Sentinels: Aegis Rim,Atlus,0.0,2020-09-22,"Adventure, RPG, Simulation"
+PS3,Yu-Gi-Oh! Millennium Duels,Konami Digital Entertainment,0.0,2014-04-29,"Card, Board Games"
+PS3,Zen Pinball 2,Zen Studios,0.0,2012-09-04,"Casual, Arcade, Simulation"
+PS3,adidas miCoach,Land Ho,0.0,2012-07-24,Arcade
+PS3,echochrome ii,Sony Computer Entertainment,0.0,2010-12-21,Puzzle
+PS3,uDraw Studio: Instant Artist,THQ,0.0,2011-11-15,Family
+PS4,ACA NEOGEO BURNING FIGHT,Hamster Corporation,0.0,2017-10-11,Arcade
+PS4,ACA NEOGEO THE KING OF FIGHTERS '97,Hamster Corporation,0.0,2017-11-02,"Arcade, Fighting"
+PS4,ACA NEOGEO ROBO ARMY,Hamster Corporation,0.0,2017-10-19,Arcade
+PS4,ACA NEOGEO SAMURAI SHODOWN,Hamster Corporation,0.0,2016-12-09,Fighting
+PS4,ACA NEOGEO SAMURAI SHODOWN II,Hamster Corporation,0.0,2017-10-11,Arcade
+PS4,ACA NEOGEO SAMURAI SHODOWN IV,Hamster Corporation,0.0,2018-06-08,"Arcade, Fighting"
+PS4,ACA NEOGEO SENGOKU,Hamster Corporation,0.0,2017-03-16,Arcade
+PS4,ACA NEOGEO FATAL FURY 3,Hamster Corporation,0.0,2017-08-31,Fighting
+PS4,ACA NEOGEO SOCCER BRAWL,Hamster Corporation,0.0,2017-12-07,Sports
+PS4,ACA NEOGEO SPIN MASTER,Hamster Corporation,0.0,2017-09-14,Arcade
+PS4,ACA NEOGEO STAKES WINNER,Hamster Corporation,0.0,2018-06-08,"Racing, Arcade, Simulation, Sports"
+PS4,ACA NEOGEO STREET HOOP,Hamster Corporation,0.0,2017-11-09,"Arcade, Sports"
+PS4,ACA NEOGEO SUPER SIDEKICKS,Hamster Corporation,0.0,2017-07-28,Sports
+PS4,ACA NEOGEO SUPER SIDEKICKS 2,Hamster Corporation,0.0,2018-06-08,"Simulation, Sports"
+PS4,ACA NEOGEO THE KING OF FIGHTERS '95,Hamster Corporation,0.0,2017-05-11,Fighting
+PS4,ACA NEOGEO THE KING OF FIGHTERS '96,Hamster Corporation,0.0,2017-08-10,Fighting
+PS4,ACA NEOGEO REAL BOUT FATAL FURY,Hamster Corporation,0.0,2017-10-13,Arcade
+PS4,ACA NEOGEO PUZZLED,Hamster Corporation,0.0,2017-08-31,Puzzle
+PS4,ACA NEOGEO PULSTAR,Hamster Corporation,0.0,2017-07-10,"Shooter, Arcade"
+PS4,ACA NEOGEO POWER SPIKES II,Hamster Corporation,0.0,2018-04-19,Sports
+PS4,ACA NEOGEO Gururin,Hamster Corporation,0.0,2018-06-08,Puzzle
+PS4,ACA NEOGEO MAGICAL DROP II,Hamster Corporation,0.0,2017-06-20,Puzzle
+PS4,ACA NEOGEO MAGICAL DROP III,Hamster Corporation,0.0,2018-06-06,Puzzle
+PS4,ACA NEOGEO METAL SLUG X,Hamster Corporation,0.0,2017-10-11,Arcade
+PS4,ACA NEOGEO NEO TURF MASTERS,Hamster Corporation,0.0,2017-02-23,Sports
+PS3,Diggs Nightcrawler,Sony Computer Entertainment Europe,0.0,2013-05-31,Adventure
+PS3,Disgaea: Hour of Darkness,Sony Computer Entertainment America,0.0,2013-01-15,RPG
+PS3,Doki-Doki Universe,Sony Computer Entertainment,0.0,2013-12-10,"Arcade, Adventure"
+PS3,Damage Inc.: Pacific Squadron WWII,Mad Catz,0.0,2012-08-28,"Arcade, Simulation"
+PS3,Crash Time 4: The Syndicate,DTP Entertainment,0.0,2011-11-30,"Racing, Arcade"
+PS3,Defense Technica,CyberFront,0.0,2014-04-22,"Strategy, Indie, Simulation"
+PS3,Days of Thunder: NASCAR Edition,505 Games,0.0,2011-05-24,"Racing, Arcade"
+PS3,Dead or Alive 5 Last Round,Tecmo Koei,0.0,2015-03-17,"Arcade, Fighting"
+PS3,Dead or Alive 5 Ultimate,Tecmo Koei,0.0,2013-09-03,"Arcade, Fighting"
+PS3,Dragon Age: Origins - Ultimate Edition,Electronic Arts,0.0,2010-10-12,RPG
+PS3,Fire Pro Wrestling Returns,Sony Computer Entertainment,0.0,2013-04-23,"Arcade, Fighting"
+PS3,Germinator,Creat Studios,0.0,2013-03-05,Puzzle
+PS3,Far Cry 3: Blood Dragon,Ubisoft,0.0,2013-05-01,Shooter
+PS3,Falling Skies: The Game,Little Orbit,0.0,2016-01-01,"Shooter, Strategy, RPG"
+PS3,All Zombies Must Die!,Doublesix,0.0,2011-12-27,Arcade
+PS3,American Mensa Academy,Square Enix,0.0,2013-02-05,"Educational, Family, Puzzle"
+PS3,Arthur and the Revenge of Maltazard,Ubisoft,0.0,2010-09-24,Arcade
+PS3,Atelier Ayesha: The Alchemist of Dusk,Tecmo Koei,0.0,2013-03-05,RPG
+PS3,Atelier Escha & Logy: Alchemists of the Dusk Sky,Tecmo Koei,0.0,2014-03-11,"Adventure, RPG"
+PS3,Atelier Shallie: Alchemists of the Dusk Sea,Tecmo Koei,0.0,2015-03-10,"Adventure, RPG"
+PS3,A.C.E.: Another Century's Episode R,Namco Bandai,0.0,2010-08-19,Simulation
+PS3,AFL Live,HES Interactive,0.0,2011-04-21,Sports
+PS3,Backgammon Blitz,VooFoo Studios,0.0,2014-04-15,"Casual, Board Games"
+PS3,Book of Potions,Sony Computer Entertainment,0.0,2013-11-12,Adventure
+PS3,BreakQuest: Extra Evolution,Beatshapers,0.0,2012-10-16,"Arcade, Puzzle"
+PS3,Child of Light,Ubisoft,0.0,2014-04-30,"Indie, RPG"
+PS3,Cloudberry Kingdom,Ubisoft,0.0,2013-07-30,"Platformer, Indie"
+PS3,Bellator: MMA Onslaught,Cloud Imperium Games Corporation,0.0,2012-09-30,"Arcade, Fighting, Sports"
+PS3,Go! Puzzle,Sony Computer Entertainment,0.0,2007-06-14,Puzzle
+PS3,MotorStorm,Sony Computer Entertainment,0.0,2007-03-06,"Racing, Arcade"
+PS3,MotorStorm: Pacific Rift,Sony Computer Entertainment,0.0,2008-10-28,"Racing, Arcade"
+PS3,Ms. Germinator,Creat Studios,0.0,2014-01-01,Puzzle
+PS3,NASCAR '15,Deep Silver,0.0,2015-05-22,"Racing, Simulation"
+PS3,Ni no Kuni: Wrath of the White Witch,Namco Bandai Games,0.0,2013-01-22,RPG
+PS3,Nobunaga's Ambition: Sphere of Influence,Tecmo Koei,0.0,2015-09-01,Strategy
+PS3,R.B.I. Baseball 14,MLB.com,0.0,2014-07-01,"Simulation, Sports"
+PS3,RESOGUN,Sony Computer Entertainment,0.0,2014-12-23,Arcade
+PS3,Professional Farmer 2016,Namco Bandai Games,0.0,2015-11-20,Simulation
+PS3,Oretachi ni Tsubasa wa Nai,5pb,0.0,2014-04-10,Adventure
+PS3,Pier Solar and the Great Architects,WaterMelon,0.0,2014-09-30,RPG
+PS3,Mainichi Issho,Sony Computer Entertainment,0.0,2006-11-11,Adventure
+PS3,Mahjong Haoh: Dankyuu Battle 3,NCS,0.0,2013-10-31,Board Games
+PS3,Hohokum,Sony Computer Entertainment,0.0,2014-08-12,"Arcade, Indie, Casual, Adventure"
+PS3,Gran Turismo 5,Sony Computer Entertainment,0.0,2010-11-24,Racing
+PS3,Gran Turismo 5 Prologue,Sony Computer Entertainment,0.0,2008-04-15,"Racing, Simulation"
+PS3,Gran Turismo 6,Sony Computer Entertainment America,0.0,2013-12-06,Racing
+PS3,Life is Strange,Square Enix,0.0,2015-01-30,Adventure
+PS3,MOTOGP 13,Milestone,0.0,2014-06-17,"Racing, Simulation, Sports"
+PS3,Knytt Underground,Triniti Interactive,0.0,2012-12-18,"Indie, Adventure"
+PS3,Kazoku Keikaku: Re:Tsumugu Ito,CyberFront,0.0,2013-10-24,Adventure
+PS3,King's Quest: The Complete Collection,Sierra Entertainment,0.0,2015-07-28,Adventure
+PS4,Ether One,Soedesco,0.0,2016-04-08,"Indie, Adventure"
+PS4,Enigmatis 2: The Mists Of Ravenwood,Artifex Mundi sp. z o.o.,0.0,2017-05-30,"Casual, Adventure, Puzzle"
+PS4,Enigmatis 3: The Shadow Of Karkhala,Big Fish Games,0.0,2018-04-06,"Casual, Adventure, Puzzle"
+PS4,Enigmatis: The Ghosts Of Maple Creek,Artifex Mundi sp. z o.o.,0.0,2017-01-24,"Casual, Adventure, Puzzle"
+PS4,Erica,Sony Interactive Entertainment,0.0,2019-08-19,"Casual, Indie, Adventure"
+PS4,Escape Plan,Sony Computer Entertainment,0.0,2013-12-03,Puzzle
+PS4,Everybody's Golf VR,Sony Computer Entertainment,0.0,2019-05-21,Sports
+PS4,Everybody's Gone to the Rapture,Sony Computer Entertainment,0.0,2015-08-11,"Casual, Indie, Adventure"
+PS4,EarthNight,cleaversoft,0.0,2015-01-01,Indie
+PS4,EA Sports FC 24,Electronic Arts,0.0,2023-09-29,"Casual, Simulation, Sports"
+PS4,Empire of Sin,Paradox Interactive,0.0,2020-12-01,"Strategy, RPG"
+PS4,FantaVision,Sony Computer Entertainment,0.0,2015-12-14,Puzzle
+PS4,F1 2019,Codemasters,0.0,2019-06-28,"Racing, Simulation, Sports"
+PS4,F1 2020,Codemasters,0.0,2020-07-10,"Racing, Sports"
+PS4,F1 2021,Codemasters,0.0,2021-07-14,"Racing, Simulation, Sports"
+PS4,F1 23,Electronic Arts,0.0,2023-06-16,"Racing, Simulation, Sports"
+PS4,FIFA 20,EA Sports,0.0,2019-09-27,Sports
+PS4,FIFA 21,Electronic Arts,0.0,2020-10-09,Sports
+PS4,Fairy Tail,Koei Tecmo,0.0,2020-07-31,"Adventure, RPG"
+PS4,DiRT 5,Codemasters,0.0,2020-11-06,"Racing, Arcade"
+PS4,DiRT Rally 2.0,Deep Silver,0.0,2019-02-26,"Racing, Simulation, Sports"
+PS4,Digimon Survive,Bandai Namco Entertainment,0.0,2022-07-29,"Strategy, RPG"
+PS4,Disco Elysium,ZA/UM,0.0,2021-03-31,"Indie, Adventure, RPG"
+PS4,Disgaea 4 Complete+,NIS America,0.0,2019-10-29,"Strategy, RPG"
+PS4,Defense Grid 2,505 Games,0.0,2014-09-23,"Strategy, Indie"
+PS4,Demon's Tier+,EastAsiaSoft,0.0,2020-06-12,RPG
+PS4,Dengeki Bunko: Fighting Climax Ignition,Sega,0.0,2015-12-17,"Arcade, Fighting"
+PS4,Deponia,Daedalic Entertainment,0.0,2016-11-15,"Indie, Adventure, RPG, Puzzle"
+PS4,Deponia Doomsday,Daedalic Entertainment,0.0,2019-02-27,"Indie, Adventure, Puzzle"
+PS4,Driveclub Bikes,Sony Computer Entertainment,0.0,2015-10-27,Racing
+PS4,Dungeon of the Endless,Sega,0.0,2019-12-01,"Indie, Strategy, Adventure, RPG"
+PS4,Doki Doki Literature Club Plus!,Serenity Forge,0.0,2021-06-30,"Casual, Indie, Adventure"
+PS4,Doki-Doki Universe,Sony Computer Entertainment,0.0,2013-12-10,"Arcade, Adventure"
+PS4,Don Bradman Cricket 17,Tru Blu Entertainment,0.0,2016-12-16,"Simulation, Sports"
+PS4,Donut County,Annapurna Interactive,0.0,2018-08-28,"Casual, Indie, Adventure, Puzzle"
+PS4,Doraemon Story of Seasons,Bandai Namco Entertainment,0.0,2020-09-04,"Casual, Adventure, Simulation"
+PS4,Kung Fu Panda: Showdown of Legendary Legends,Little Orbit,0.0,2015-12-01,Fighting
+PS4,Moons Of Madness,Funcom,0.0,2020-03-24,"Indie, Adventure"
+PS4,Never Alone,E-Line Media,0.0,2014-11-18,"Casual, Indie, Adventure"
+PS4,Home - a Unique Horror Adventure,Benjamin Rivers Inc.,0.0,2015-01-01,Adventure
+PS4,Ironclad Tactics,Zachtronics Industries,0.0,2015-01-01,"Casual, Strategy, Indie"
+PS4,Night in the Woods,Finji,0.0,2017-02-21,Adventure
+PS4,Qurare: Magic Library,Smilegate Megaport,0.0,2016-09-06,"Strategy, RPG"
+PS4,Psychonauts in the Rhombus of Ruin,Sony Interactive Entertainment,0.0,2017-06-13,Adventure
+PS4,Pure Chess,Unknown,0.0,2014-04-15,Board Games
+PS4,Pure Pool,Triniti Interactive,0.0,2014-12-05,"Casual, Simulation, Sports"
+PS4,R.B.I. Baseball 14,MLB.com,0.0,2014-07-01,"Simulation, Sports"
+PS4,R.B.I. Baseball 15,MLB.com,0.0,2015-05-01,"Simulation, Sports"
+PS4,RESOGUN,Sony Computer Entertainment,0.0,2013-11-15,Arcade
+PS4,Rainbow Moon,EastAsiaSoft,0.0,2016-02-16,"Strategy, RPG"
+PS4,Pneuma: Breath of Life,Deco Digital,0.0,2015-07-07,"Indie, Adventure, Puzzle"
+PS4,Peggle 2,Electronic Arts,0.0,2014-10-14,"Family, Arcade"
+PS4,Persona 5 Royal,Atlus,0.0,2020-03-31,"Adventure, RPG"
+PS4,Pier Solar and the Great Architects,WaterMelon,0.0,2014-09-30,RPG
+PS4,Hohokum,Sony Computer Entertainment,0.0,2014-08-12,"Arcade, Indie, Casual, Adventure"
+PS4,Hitman GO,Square Enix,0.0,2016-02-23,"Strategy, Puzzle"
+PS4,Frantics,Sony Interactive Entertainment,0.0,2018-03-06,"Casual, Arcade"
+PS4,Frostpunk,11 bit studios,0.0,2019-10-11,"Strategy, Simulation"
+PS4,Final Fantasy IX,Square Enix,0.0,2017-09-19,"Adventure, RPG"
+PS4,Final Fantasy VIII Remastered,Square Enix,0.0,2019-12-01,"Adventure, RPG"
+PS4,Final Fantasy XIV: Shadowbringers,Square Enix,0.0,2019-07-02,"Massively Multiplayer, RPG"
+PS4,Firewatch,Campo Santo,0.0,2016-02-09,"Indie, Adventure"
+PS4,Fuser,NCSoft,0.0,2020-11-10,"Casual, Family, Simulation"
+PS4,Grow Home,Ubisoft,0.0,2015-09-01,"Casual, Indie, Adventure"
+PS4,Ginger: Beyond the Crystal,PQube,0.0,2016-10-28,"Indie, Adventure"
+PS4,Gone Home,Majesco Entertainment,0.0,2016-01-12,"Indie, Adventure"
+PS4,Gran Turismo 7,Sony Computer Entertainment,0.0,2022-03-04,Racing
+PS4,H1Z1: Battle Royale,Daybreak Games,0.0,2018-05-22,Shooter
+PS4,Backgammon Blitz,VooFoo Studios,0.0,2014-04-15,"Casual, Board Games"
+PS4,Baldur's Gate II: Enhanced Edition,Beamdog,0.0,2019-09-24,"Strategy, RPG"
+PS4,Baldur's Gate: Enhanced Edition,Skybound Games,0.0,2019-09-24,"Strategy, RPG"
+PS4,Blue Reflection: Second Light,Koei Tecmo,0.0,2021-11-09,RPG
+PS4,Black Book,HypeTrain Digital,0.0,2020-12-01,"Indie, Strategy, Adventure, RPG"
+PS4,Bomber Crew,Merge Games,0.0,2019-03-12,"Strategy, Simulation"
+PS4,Blood Bowl 2,Focus Home Interactive,0.0,2015-05-29,"Strategy, Sports"
+PS4,Blackwood Crossing,Vision Games,0.0,2017-04-04,"Indie, Adventure"
+PS4,Blast 'Em Bunnies,Nnooo,0.0,2015-01-01,Shooter
+PS4,Astria Ascending,Maple Whispering Limited,0.0,2021-09-30,RPG
+PS4,Atelier Ryza: Ever Darkness & the Secret Hideout,Koei Tecmo,0.0,2019-10-29,"Adventure, RPG"
+PS4,Arcade Spirits,PQube,0.0,2020-12-01,"Indie, Adventure, Simulation"
+PS4,Armikrog,Versus Evil,0.0,2016-08-23,"Indie, Adventure, Puzzle"
+PS4,Asdivine Dios,Kemco,0.0,2019-06-05,"Casual, Adventure, RPG, Simulation"
+PS4,Asdivine Hearts II,Kemco,0.0,2019-01-15,"Casual, Indie, Adventure, RPG"
+PS4,Ashes Cricket,Koch Media,0.0,2018-11-16,"Indie, Sports"
+PS4,Dead or Alive Xtreme 3: Scarlet,Koei Tecmo,0.0,2019-03-20,Sports
+PS4,Dear Esther: Landmark Edition,Good Shepherd Entertainment,0.0,2016-09-20,"Casual, Indie, Adventure"
+PS4,Death Come True,Izanagi Games,0.0,2020-10-15,"Adventure, RPG"
+PS4,Death Coming,Zodiac Interactive,0.0,2019-02-26,"Adventure, RPG, Puzzle, Casual, Strategy, Simulation, Indie"
+PS4,Dangerous Driving,Three Fields Entertainment,0.0,2019-04-09,"Racing, Arcade"
+PS4,Call of Duty: Warzone,Activision,0.0,2020-03-10,Shooter
+PS4,Broken Age,Nordic Games,0.0,2015-04-28,"Adventure, Puzzle, Casual, Family, Indie"
+PS4,Bubble Bobble 4 Friends: The Baron is Back!,Taito,0.0,2020-11-19,Platformer
+PS4,Clannad,Prototype,0.0,2018-06-14,"Casual, Adventure"
+PS4,Chrono Cross: The Radical Dreamers Edition,Square-Enix,0.0,2022-04-07,"Adventure, RPG"
+PS4,Cinders,Crunching Koalas,0.0,2020-08-25,"Indie, Adventure, RPG"
+PS4,Citizens of Earth,Atlus,0.0,2015-01-20,RPG
+PS4,Cloudpunk,Maple Whispering Limited,0.0,2020-10-15,"Indie, Adventure, Simulation"
+PS4,Catch & Release,metricminds GmbH & Co. KG,0.0,2018-08-28,"Simulation, Sports"
+PS4,Celeste,Matt Makes Games Inc.,0.0,2018-01-25,"Platformer, Indie"
+PS4,Chaos on Deponia,Daedalic Entertainment,0.0,2017-12-06,"Indie, Adventure, RPG"
